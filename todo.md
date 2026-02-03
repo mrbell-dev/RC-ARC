@@ -7,6 +7,4 @@
 
 #### Pending
 
-- Generate favicon images using realfavicongenerator.net with ham radio icon (directory ready at /static/img/favicons/)
-- Publish GitHub Wiki documentation (pages ready in /docs/wiki/, need to initialize wiki first)
 - Set up dedicated SheetMonkey/Google Forms endpoint for membership form (currently shares contact form endpoint)
