@@ -1,34 +1,50 @@
-# Hugo Theme Chirpy Starter Template
+# Rowan Amateur Radio Society (RARS) Website
 
-This is a quick start template for [Hugo Theme Chirpy](https://github.com/geekifan/hugo-theme-chirpy). It uses [Hugo modules](https://gohugo.io/hugo-modules/) feature to load the theme.
+Website for the **Rowan Amateur Radio Society (RARS)**, call sign **N4UH**, located in Salisbury, Rowan County, North Carolina.
 
-It comes with a basic theme structure and configuration. GitHub action has been set up to deploy the theme to a public GitHub page automatically. Also, there's a cron job to update the theme automatically everyday.
+**Live site:** [gettinhammered.com](https://gettinhammered.com)
 
-## Get started
+## About RARS
 
-1. Click *Use this template*, and create your repository as `<username>.github.io` on GitHub.
-![Step 1](https://user-images.githubusercontent.com/5889006/156916624-20b2a784-f3a9-4718-aa5f-ce2a436b241f.png)
+- **Meeting:** 2nd Monday of each month at 7:00 PM
+- **Location:** Rowan County Rescue Squad, 1140 Julian Rd, Salisbury, NC 28146
+- **Repeaters:**
+  - 2m: 145.410 MHz, -0.600 offset, 136.5 PL
+  - 70cm: 443.250 MHz, +5.000 offset, 136.5 PL
 
-2. Once the repository is created, create a GitHub codespace associated with it.
-![Create codespace](https://user-images.githubusercontent.com/5889006/156916672-43b7b6e9-4ffb-4704-b4ba-d5ca40ffcae7.png)
+## Technology Stack
 
-3. And voila! You're ready to go. The codespace has been configured with the latest version of Hugo extended, just run `hugo server` in the terminal and see your new site in action.
+- **Static Site Generator:** [Hugo](https://gohugo.io/)
+- **Theme:** [Hugo Theme Chirpy](https://github.com/geekifan/hugo-theme-chirpy)
+- **Hosting:** GitHub Pages
+- **Deployment:** GitHub Actions (automatic on push)
 
-4. Check `config` folder for the configuration files. You can edit them to suit your needs. Make sure to update the `baseURL` property in `hugo.toml` to your site's URL.
+## Local Development
 
-5. Open Settings -> Pages. Change the build branch from `main` to `gh-pages`.
-![Build](https://github.com/namanh11611/hugo-theme-stack-starter/assets/16586200/12c763cd-bead-4923-b610-8788f388fcb5)
+Prerequisites: Git, Go, and Hugo extended installed locally.
 
-6. Once you're done editing the site, just commit it and push it. GitHub action will deploy the site automatically to GitHub page asociated with the repository.
-![GitHub action](https://user-images.githubusercontent.com/5889006/156916881-90b8bb9b-1925-4e60-9d7a-8026cda729bf.png)
+```bash
+# Clone the repository
+git clone git@github.com:mrbell-dev/RC-ARC.git
+cd RC-ARC
 
----
+# Start local dev server with live reload
+~/go/bin/hugo serve
 
-In case you don't want to use GitHub codespace, you can also run this template in your local machine. **You need to install Git, Go and Hugo extended locally.**
+# Production build
+~/go/bin/hugo --minify --gc
+```
 
-## Update theme manually
+## Documentation
 
-Run:
+For non-technical users wanting to edit the website, see the [GitHub Wiki](https://github.com/mrbell-dev/RC-ARC/wiki) which includes guides for:
+- Getting started with GitHub
+- Editing existing content
+- Creating new posts
+- Adding images
+- Understanding the site structure
+
+## Update Theme
 
 ```bash
 hugo mod get -u github.com/geekifan/hugo-theme-chirpy
@@ -37,4 +53,9 @@ hugo mod tidy
 
 ## Credits
 
-This README is modified from [hugo-theme-stack-starter](https://github.com/CaiJimmy/hugo-theme-stack-starter).
+- **Theme:** [Hugo Theme Chirpy](https://github.com/geekifan/hugo-theme-chirpy)
+- **Favicon:** Ham radio icons by [IRL](https://irl.xyz/blog/2021/2021w127/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+## License
+
+Content is copyright Rowan Amateur Radio Society. Theme is subject to its own license.
