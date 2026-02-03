@@ -11,75 +11,72 @@
     <!-- Annual/Recurring Events Section -->
     {{ $generalEvents := where (where .Site.RegularPages "Type" "post") ".Params.tags" "intersect" (slice "event-general") }}
     {{ if $generalEvents }}
-    <section class="mt-5">
+    <div class="content mt-5">
       <h2><i class="fas fa-repeat me-2"></i>Annual & Recurring Events</h2>
-      <p class="text-muted">Events that happen regularly throughout the year.</p>
-      <div class="row">
-        {{ range $generalEvents }}
-        <div class="col-12 mb-3">
-          <div class="card">
-            <div class="card-body">
-              <h5 class="card-title">
-                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-              </h5>
-              <p class="card-text">{{ .Description | default .Summary | plainify | truncate 150 }}</p>
-              <div class="text-muted small">
-                {{ if .Params.categories }}
-                  <i class="far fa-folder-open me-1"></i>
-                  {{ delimit .Params.categories ", " }}
-                {{ end }}
+      <p><em>Events that happen regularly throughout the year.</em></p>
+      {{ range $generalEvents }}
+      <div class="card-wrapper card mb-3">
+        <a href="{{ .RelPermalink }}" class="post-preview row g-0">
+          <div class="col-12">
+            <div class="card-body d-flex flex-column">
+              <h4 class="card-title my-2">{{ .Title }}</h4>
+              <div class="card-text content mt-0 mb-2">
+                <p>{{ .Description | default .Summary | plainify | truncate 150 }}</p>
               </div>
+              {{ if .Params.categories }}
+              <div class="post-meta">
+                <i class="far fa-folder-open fa-fw me-1"></i>
+                <span>{{ delimit .Params.categories ", " }}</span>
+              </div>
+              {{ end }}
             </div>
           </div>
-        </div>
-        {{ end }}
+        </a>
       </div>
-    </section>
+      {{ end }}
+    </div>
     {{ end }}
 
     <!-- Specific Dated Events Section -->
     {{ $calEvents := where (where .Site.RegularPages "Type" "post") ".Params.tags" "intersect" (slice "event-cal") }}
     {{ if $calEvents }}
-    <section class="mt-5">
+    <div class="content mt-5">
       <h2><i class="fas fa-calendar-day me-2"></i>Upcoming Events</h2>
-      <p class="text-muted">Specific events with dates and times.</p>
-      <div class="row">
-        {{ range $calEvents }}
-        <div class="col-12 mb-3">
-          <div class="card">
-            <div class="card-body">
-              <h5 class="card-title">
-                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-              </h5>
+      <p><em>Specific events with dates and times.</em></p>
+      {{ range $calEvents }}
+      <div class="card-wrapper card mb-3">
+        <a href="{{ .RelPermalink }}" class="post-preview row g-0">
+          <div class="col-12">
+            <div class="card-body d-flex flex-column">
+              <h4 class="card-title my-2">{{ .Title }}</h4>
               {{ if .Params.event_date }}
-              <p class="text-primary mb-2">
-                <i class="far fa-calendar me-1"></i>
-                {{ .Params.event_date }}
-              </p>
-              {{ end }}
-              <p class="card-text">{{ .Description | default .Summary | plainify | truncate 150 }}</p>
-              <div class="text-muted small">
-                {{ if .Params.categories }}
-                  <i class="far fa-folder-open me-1"></i>
-                  {{ delimit .Params.categories ", " }}
-                {{ end }}
+              <div class="mb-2">
+                <i class="far fa-calendar fa-fw me-1"></i>
+                <strong>{{ .Params.event_date }}</strong>
               </div>
+              {{ end }}
+              <div class="card-text content mt-0 mb-2">
+                <p>{{ .Description | default .Summary | plainify | truncate 150 }}</p>
+              </div>
+              {{ if .Params.categories }}
+              <div class="post-meta">
+                <i class="far fa-folder-open fa-fw me-1"></i>
+                <span>{{ delimit .Params.categories ", " }}</span>
+              </div>
+              {{ end }}
             </div>
           </div>
-        </div>
-        {{ end }}
+        </a>
       </div>
-    </section>
+      {{ end }}
+    </div>
     {{ end }}
 
     <!-- Show message if no events -->
     {{ if and (not $generalEvents) (not $calEvents) }}
-    <section class="mt-5">
-      <div class="alert alert-info">
-        <i class="fas fa-info-circle me-2"></i>
-        No events posted yet. Check back soon or contact us for upcoming activities!
-      </div>
-    </section>
+    <div class="content mt-5">
+      <p><i class="fas fa-info-circle me-2"></i>No events posted yet. Check back soon or contact us for upcoming activities!</p>
+    </div>
     {{ end }}
 
   </article>

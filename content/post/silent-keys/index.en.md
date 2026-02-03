@@ -4,6 +4,11 @@ date: 2025-01-01
 description: "In memory of RARS members who have become Silent Keys"
 categories: [Club Info]
 tags: [silent-keys, memorial]
+menu:
+  main:
+    name: Silent Keys
+    weight: 5
+    pre: fa-dove
 ---
 
 ## Silent Keys

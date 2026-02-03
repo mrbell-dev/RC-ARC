@@ -8,7 +8,7 @@ layout: page
 menu:
   main:
     name: About
-    weight: 6
+    weight: 7
     pre: fa-info-circle
 ---
 

@@ -33,15 +33,21 @@ This is the website for the **Rowan Amateur Radio Society (RARS)**, a ham radio 
 ### Pages
 - `content/_index.en.md` - Home page
 - `content/about/index.en.md` - About RARS
+- `content/activities/index.en.md` - Activities & Events (with Google Calendar embed)
 - `content/post/join-us/` - How to join
 - `content/post/repeaters/` - N4UH repeater info
 - `content/post/meetings/` - Meeting schedule
-- `content/post/field-day/` - Field Day event
+- `content/post/field-day/` - Field Day event (tag: event-general)
+- `content/post/firecracker-hamfest/` - Firecracker Hamfest (tag: event-cal)
 - `content/post/ares-net/` - ARES/emergency comms
 - `content/post/live-feed/` - Broadcastify embed
 - `content/post/contact/` - Contact form (SheetMonkey)
 - `content/post/silent-keys/` - Memorial page (placeholder)
 - `content/post/privacy-policy/` - Privacy policy
+
+### Event Tags
+- `event-general` - Annual/recurring events (displayed in Activities page)
+- `event-cal` - Specific dated events (displayed in Activities page, supports `event_date` front matter)
 
 ### Assets
 - `assets/img/commons/rars_logo.png` - Club logo
@@ -54,6 +60,12 @@ This is the website for the **Rowan Amateur Radio Society (RARS)**, a ham radio 
 ## Pinned Posts
 
 Three posts have `pin: true`: Join Us, Repeaters, Meetings.
+
+## TODOs
+
+- [ ] Replace US Holidays calendar with RARS club Google Calendar (in `content/activities/index.en.md`)
+- [ ] Switch contact form from SheetMonkey to RARS Google account (same account as calendar)
+- [ ] Create webhook to watch Google Form submissions and send to Discord bot
 
 ## Future Additions
 

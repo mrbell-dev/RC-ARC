@@ -3,6 +3,6 @@ title: "Tags"
 menu:
   main:
     name: Tags
-    weight: 8
+    weight: 9
     pre: fa-tags
 ---

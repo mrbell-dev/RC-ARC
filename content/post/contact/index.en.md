@@ -7,7 +7,7 @@ tags: [contact]
 menu:
   main:
     name: Contact
-    weight: 5
+    weight: 6
     pre: fa-envelope
 ---
 
@@ -35,25 +35,27 @@ Listen for us on the N4UH repeaters:
 
 ## Contact Form
 
-<form action="https://api.sheetmonkey.io/form/tsXjKtuurQAQJFvwaGGvuX" method="post">
-  <p>
-    <label>Name:<br>
-    <input type="text" name="Name" required style="width: 100%; max-width: 400px; padding: 8px;"></label>
-  </p>
-  <p>
-    <label>Call Sign (if licensed):<br>
-    <input type="text" name="Call Sign" style="width: 100%; max-width: 400px; padding: 8px;"></label>
-  </p>
-  <p>
-    <label>Email:<br>
-    <input type="email" name="Email" required style="width: 100%; max-width: 400px; padding: 8px;"></label>
-  </p>
-  <p>
-    <label>Message:<br>
-    <textarea name="Message" rows="5" required style="width: 100%; max-width: 400px; padding: 8px;"></textarea></label>
-  </p>
+<!-- TODO: Switch form to RARS Google account (same account as calendar) -->
+<!-- TODO: Create webhook to watch Google Form submissions and send to Discord bot -->
+<form action="https://api.sheetmonkey.io/form/tsXjKtuurQAQJFvwaGGvuX" method="post" class="mb-4">
+  <div class="mb-3">
+    <label class="form-label">Name:</label>
+    <input type="text" name="Name" required class="form-control">
+  </div>
+  <div class="mb-3">
+    <label class="form-label">Call Sign (if licensed):</label>
+    <input type="text" name="Call Sign" class="form-control">
+  </div>
+  <div class="mb-3">
+    <label class="form-label">Email:</label>
+    <input type="email" name="Email" required class="form-control">
+  </div>
+  <div class="mb-3">
+    <label class="form-label">Message:</label>
+    <textarea name="Message" rows="5" required class="form-control"></textarea>
+  </div>
   <input type="hidden" name="Submitted" value="x-sheetmonkey-current-date-time">
-  <p>
-    <input type="submit" value="Send Message" style="padding: 10px 20px; cursor: pointer;">
-  </p>
+  <div class="mb-3">
+    <button type="submit" class="btn btn-primary">Send Message</button>
+  </div>
 </form>
