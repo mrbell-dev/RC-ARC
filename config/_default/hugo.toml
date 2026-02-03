@@ -1,7 +1,7 @@
 # The base URL for the site.
-baseURL = 'https://geekifan.github.io/chirpy-starter/'
+baseURL = 'https://gettinhammered.com/'
 # The title of the site.
-title = 'Chirpy'
+title = 'Rowan Amateur Radio Society'
 # Enable Git info › https://gohugo.io/methods/page/gitinfo/
 enableGitInfo = false
 # The default content language.
@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
 # Whether the default content language is in a subdirectory.
 defaultContentLanguageInSubdir = false
 # Whether the site has CJK language (Chinese, Japanese, Korean).
-hasCJKLanguage = true
+hasCJKLanguage = false
 
 # Pagination settings.
 [pagination]

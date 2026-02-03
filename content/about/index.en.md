@@ -1,26 +1,39 @@
 ---
-title: "About"
-date: 2023-04-20
-draft: false
+title: "About RARS"
+date: 2025-01-01
+description: "About the Rowan Amateur Radio Society"
+categories: [Club Info]
+tags: [about, history]
 layout: page
-menu:
-  main:
-    name: About
-    weight: 5
-    pre: fa-info-circle
 ---
 
-[Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) is a blog theme originally based on [Jekyll](https://jekyllrb.com/). Due to Jekyll's design limitations, it does not natively support internationalization (i18n) and requires third-party plugins for i18n functionality. To enable i18n support for Chirpy without the hassle of relying on third-party plugins, the [hugo-theme-chirpy](https://github.com/geekifan/hugo-theme-chirpy) project migrated the Chirpy theme to [Hugo](https://gohugo.io/) with minimal adaptations. All features of Chirpy are available in hugo-theme-chirpy (though some functionalities may operate differently within the Hugo framework).
+## About Us
 
-Follow the posts in the demo site to quickly set up a free personal blog!
-## Features
+The Rowan Amateur Radio Society (RARS) is an amateur radio club serving Rowan County, North Carolina. Operating under the call sign N4UH, the club proudly represents the society on the airwaves from its home in Salisbury.
 
-- **Dark Mode**: Enhanced readability in low-light environments.
-- **Multilingual UI:** Easily switch between different languages.
-- **Efficient Post Organization:** Use hierarchical categories, trending tags, recommended reading, and search functionalities.
-- **Optimized Layout:** Includes TOC, syntax highlighting, prompts, and more.
-- **Rich Writing Extensions:** Support for mathematical formulas, charts, flowcharts, and embedded media.
-- **Multiple Comment Systems:** Choose from various commenting options.
-- **Web Analysis Tools:** Integrated with multiple analytics tools.
-- **Modern Web Technologies:** Built for SEO and web performance.
-- **RSS Feed Support:** Keep your readers updated with RSS feeds.
+## Meetings
+
+RARS meets on the **2nd Monday of each month** at **7:00 PM** at:
+
+[Rowan County Rescue Squad, 1140 Julian Rd, Salisbury, NC 28146](https://www.google.com/maps/search/?api=1&query=Rowan+County+Rescue+Squad+1140+Julian+Rd+Salisbury+NC+28146)
+
+## Officers
+
+- **President:** David Jackman N7WOY
+- **Vice President:** Steven Snider KJ6FWQ
+- **Secretary:** Richard Paschall AJ4UX
+- **Treasurer:** Robert Gresham N4DNC
+
+## Repeaters
+
+RARS maintains two repeaters under the N4UH call sign:
+
+- **2m:** 145.410 MHz (-0.600 MHz, 136.5 Hz tone)
+- **70cm:** 443.250 MHz (+5.000 MHz, 136.5 Hz tone)
+
+## Contact
+
+- **Email:** [rustyutahn@yahoo.com](mailto:rustyutahn@yahoo.com)
+- **Phone:** (704) 433-7371
+
+Visitors are always welcome at our meetings!
