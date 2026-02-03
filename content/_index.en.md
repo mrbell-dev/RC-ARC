@@ -1,4 +1,6 @@
 ---
+title: "Rowan Amateur Radio Society - N4UH"
+description: "Welcome to the Rowan Amateur Radio Society (RARS), N4UH - a friendly amateur radio club in Salisbury, Rowan County, North Carolina. Join us for meetings, events, and on-air activities."
 menu:
   main:
     name: Home

@@ -4,6 +4,35 @@ toc = true
 avatar = "img/commons/rars_logo.png"
 author = "ai2f"
 
+# SEO Settings
+[seo]
+  # Site description for search engines and social sharing
+  description = "Rowan Amateur Radio Society (RARS), N4UH - Amateur radio club in Salisbury, Rowan County, North Carolina. Join us for meetings, events, license testing, and on-air activities."
+  # Keywords for search engines
+  keywords = ["amateur radio", "ham radio", "RARS", "N4UH", "Rowan County", "Salisbury", "North Carolina", "radio club", "repeater", "ARES", "field day"]
+
+# Open Graph / Social Sharing
+[og]
+  # Default image for social sharing (relative to /static/)
+  image = "/img/commons/rars_logo.png"
+  # Site name for Open Graph
+  site_name = "Rowan Amateur Radio Society"
+
+# Structured Data (Schema.org)
+[schema]
+  type = "Organization"
+  name = "Rowan Amateur Radio Society"
+  alternateName = "RARS"
+  url = "https://gettinhammered.com"
+  logo = "https://gettinhammered.com/img/commons/rars_logo.png"
+  # Location
+  [schema.address]
+    streetAddress = "1140 Julian Rd"
+    addressLocality = "Salisbury"
+    addressRegion = "NC"
+    postalCode = "28146"
+    addressCountry = "US"
+
 [assets]
   # Self-hosted static assets, default to false. If true, the assets will be hosted on your own server.
   self_host = false

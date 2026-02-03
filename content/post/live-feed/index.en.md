@@ -14,10 +14,11 @@ You can listen to the N4UH repeater live through Broadcastify. This feed covers 
 
 ## About the Feed
 
-This Broadcastify feed streams audio from the N4UH amateur radio repeaters operated by the Rowan Amateur Radio Society:
+This Broadcastify feed streams audio from the N4UH 2-meter repeater operated by the Rowan Amateur Radio Society:
 
 - **2m Repeater:** 145.410 MHz, -0.600 offset, 136.5 PL
-- **70cm Repeater:** 443.250 MHz, +5.000 offset, 136.5 PL
+
+*Note: Only the 2m repeater is streamed on Broadcastify. The 70cm repeater (443.250 MHz) is not included in this feed.*
 
 ## Listen on Broadcastify
 

@@ -30,6 +30,9 @@ A collection of useful resources for amateur radio operators, from our club page
 - [ARRL Exam Session Search](http://www.arrl.org/exam_sessions/search) - Find a license exam near you
 - [ARRL Getting Licensed](https://www.arrl.org/getting-licensed) - Official guide to getting your ham license
 
+### License Lookup
+- [FCC License Search (ULS)](https://wireless2.fcc.gov/UlsApp/UlsSearch/searchLicense.jsp) - Look up any amateur radio license in the FCC database
+
 ### Nearby VE Testing Sessions
 - [Mecklenburg ARS (Charlotte)](https://w4bfb.org/mars-info/charlotte-testing/) - Charlotte area testing
 - [Richmond County ARC](https://k4rnc.org/ve-testing-schedule/) - Rockingham area testing

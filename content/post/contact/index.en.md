@@ -37,18 +37,19 @@ Listen for us on the N4UH repeaters:
 
 <!-- TODO: Switch form to RARS Google account (same account as calendar) -->
 <!-- TODO: Create webhook to watch Google Form submissions and send to Discord bot -->
-<form action="https://api.sheetmonkey.io/form/tsXjKtuurQAQJFvwaGGvuX" method="post" class="mb-4">
+<form id="contactForm" action="https://api.sheetmonkey.io/form/tsXjKtuurQAQJFvwaGGvuX" method="post" class="mb-4">
   <div class="mb-3">
     <label class="form-label">Name:</label>
     <input type="text" name="Name" required class="form-control">
   </div>
   <div class="mb-3">
     <label class="form-label">Call Sign (if licensed):</label>
-    <input type="text" name="Call Sign" class="form-control">
+    <input type="text" name="Call Sign" class="form-control" pattern="[A-Za-z]{1,2}[0-9][A-Za-z]{1,3}" title="Enter a valid amateur radio call sign (e.g., W4ABC, KJ4XYZ)">
   </div>
   <div class="mb-3">
     <label class="form-label">Email:</label>
-    <input type="email" name="Email" required class="form-control">
+    <input type="email" id="emailInput" name="Email" required class="form-control" pattern="[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}" title="Please enter a valid email address">
+    <div id="emailFeedback" class="invalid-feedback">Please enter a valid email address.</div>
   </div>
   <div class="mb-3">
     <label class="form-label">Message:</label>
@@ -59,3 +60,35 @@ Listen for us on the N4UH repeaters:
     <button type="submit" class="btn btn-primary">Send Message</button>
   </div>
 </form>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const form = document.getElementById('contactForm');
+  const emailInput = document.getElementById('emailInput');
+
+  // Email validation regex
+  const emailRegex = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
+
+  // Real-time email validation
+  emailInput.addEventListener('input', function() {
+    if (this.value === '') {
+      this.classList.remove('is-valid', 'is-invalid');
+    } else if (emailRegex.test(this.value)) {
+      this.classList.remove('is-invalid');
+      this.classList.add('is-valid');
+    } else {
+      this.classList.remove('is-valid');
+      this.classList.add('is-invalid');
+    }
+  });
+
+  // Form submission validation
+  form.addEventListener('submit', function(e) {
+    if (!emailRegex.test(emailInput.value)) {
+      e.preventDefault();
+      emailInput.classList.add('is-invalid');
+      emailInput.focus();
+    }
+  });
+});
+</script>
