@@ -31,4 +31,4 @@ The Rowan Amateur Radio Society remembers and honors our members who have become
 
 > "The CQ has gone unanswered, the frequency silent. But the signals they sent continue to echo in the lives they touched."
 
-If you have information about RARS members who should be remembered on this page, please [contact us](/post/contact/).
+If you have information about RARS members who should be remembered on this page, please [contact us](/pages/contact/).

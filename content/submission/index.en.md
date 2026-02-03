@@ -14,5 +14,5 @@ We have received your information and will get back to you as soon as possible.
 ---
 
 - [Go Home](/)
-- [Contact Us](/post/contact/)
-- [About RARS](/about/)
+- [Contact Us](/pages/contact/)
+- [About RARS](/pages/about/)

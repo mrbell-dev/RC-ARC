@@ -28,25 +28,37 @@ This is the website for the **Rowan Amateur Radio Society (RARS)**, a ham radio 
 ~/go/bin/hugo --minify --gc
 ```
 
-## Site Structure
+## Content Structure
 
-### Pages
-- `content/_index.en.md` - Home page
-- `content/about/index.en.md` - About RARS (includes CC-BY credits)
-- `content/activities/index.en.md` - Activities & Events (with Google Calendar embed)
-- `content/links/index.en.md` - Helpful links and resources
-- `content/post/join-us/` - How to join
-- `content/post/membership/` - Digital membership application form
-- `content/post/repeaters/` - N4UH repeater info
-- `content/post/local-repeaters/` - Quick reference for nearby repeaters
-- `content/post/meetings/` - Meeting schedule
-- `content/post/field-day/` - Field Day event (tag: event-general)
-- `content/post/firecracker-hamfest/` - Firecracker Hamfest (tag: event-cal)
-- `content/post/ares-net/` - ARES/emergency comms
-- `content/post/live-feed/` - Broadcastify embed (2m repeater only)
-- `content/post/contact/` - Contact form (SheetMonkey, with JS email validation)
-- `content/post/silent-keys/` - Memorial page (placeholder)
-- `content/post/privacy-policy/` - Privacy policy
+```
+content/
+├── _index.en.md              # Home page
+├── categories/               # System - category listing
+├── tags/                     # System - tag listing
+├── archives/                 # System - archive listing
+├── submission/               # Utility - form thank you page
+│
+├── pages/                    # Static informational pages
+│   ├── about/                # About RARS (includes CC-BY credits)
+│   ├── activities/           # Activities & Events (Google Calendar)
+│   ├── links/                # Helpful links and resources
+│   ├── contact/              # Contact form (SheetMonkey)
+│   ├── membership/           # Membership application form
+│   ├── meetings/             # Meeting schedule
+│   ├── repeaters/            # N4UH repeater info
+│   ├── local-repeaters/      # Quick reference for nearby repeaters
+│   ├── join-us/              # How to join
+│   ├── live-feed/            # Broadcastify embed (2m only)
+│   ├── ares-net/             # ARES/emergency comms
+│   ├── privacy-policy/       # Privacy policy
+│   └── silent-keys/          # Memorial page
+│
+├── events/                   # Recurring event information
+│   ├── field-day/            # Field Day (tag: event-general)
+│   └── firecracker-hamfest/  # Firecracker Hamfest (tag: event-cal)
+│
+└── posts/                    # News/announcements (date-based, currently empty)
+```
 
 ### Event Tags
 - `event-general` - Annual/recurring events (displayed in Activities page)
@@ -72,13 +84,13 @@ This is the website for the **Rowan Amateur Radio Society (RARS)**, a ham radio 
 
 ## Pinned Posts
 
-Three posts have `pin: true`: Join Us, Repeaters, Meetings.
+Three pages have `pin: true`: Join Us, Repeaters, Meetings.
 
 ## Forms
 
 Both contact and membership forms use SheetMonkey for backend:
-- Contact form: `/content/post/contact/index.en.md`
-- Membership form: `/content/post/membership/index.en.md`
+- Contact form: `/content/pages/contact/index.en.md`
+- Membership form: `/content/pages/membership/index.en.md`
 
 Forms include JavaScript validation for email fields.
 
@@ -91,12 +103,11 @@ SEO settings are configured in `config/_default/params.toml`:
 
 ## TODOs
 
-See `todo.md` for current items. Deferred items include:
-- Content reorganization (posts vs static pages)
-- Better file naming for yearly events
+See `todo.md` for current items:
 - Obsidian Sync integration for content management
 
 ## Notes
 
 - Broadcastify feed only streams the 2m repeater (145.410 MHz), not the 70cm repeater
 - Favicon icons are CC-BY licensed from [irl.xyz](https://irl.xyz/blog/2021/2021w127/) - attribution in About page
+- Internal links use `/pages/` for static pages and `/events/` for event pages

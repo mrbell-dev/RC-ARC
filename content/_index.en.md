@@ -34,12 +34,12 @@ Come say hello on the air or in person — visitors are always welcome!
 
 ## Quick Links
 
-- [Join RARS](/post/join-us/) — Membership info and how to get involved
-- [Repeaters](/post/repeaters/) — Full repeater details and coverage
-- [Meetings](/post/meetings/) — Schedule and directions
-- [Field Day](/post/field-day/) — Our annual Field Day event
-- [Live Feed](/post/live-feed/) — Listen to our repeater on Broadcastify
-- [About RARS](/about/) — Club history and information
+- [Join RARS](/pages/join-us/) — Membership info and how to get involved
+- [Repeaters](/pages/repeaters/) — Full repeater details and coverage
+- [Meetings](/pages/meetings/) — Schedule and directions
+- [Field Day](/events/field-day/) — Our annual Field Day event
+- [Live Feed](/pages/live-feed/) — Listen to our repeater on Broadcastify
+- [About RARS](/pages/about/) — Club history and information
 
 ## Browse Articles
 

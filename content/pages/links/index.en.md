@@ -79,4 +79,4 @@ A collection of useful resources for amateur radio operators, from our club page
 
 ---
 
-*Have a link suggestion? [Contact us](/post/contact/) and let us know!*
+*Have a link suggestion? [Contact us](/pages/contact/) and let us know!*

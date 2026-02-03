@@ -32,4 +32,4 @@ Audio is streamed live when there is activity on the repeater. During quiet peri
 
 ## Get on the Air
 
-Want to do more than listen? Get your amateur radio license and join us on the air! Visit our [VEC Testing](/post/vec-about/) page to learn how to get started.
+Want to do more than listen? Get your amateur radio license and join us on the air! Check out our [Links](/pages/links/) page for study resources and testing locations.

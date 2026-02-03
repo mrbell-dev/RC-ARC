@@ -120,4 +120,4 @@ A quick reference guide to amateur radio repeaters in and around Rowan County, N
 
 ---
 
-*Know of a repeater that should be listed here? [Contact us](/post/contact/) with the details!*
+*Know of a repeater that should be listed here? [Contact us](/pages/contact/) with the details!*

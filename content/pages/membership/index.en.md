@@ -131,7 +131,7 @@ Please complete the form below to apply for membership. We'll be in touch shortl
 2. You're welcome to attend our next meeting - visitors are always welcome!
 3. Dues and membership details will be discussed at the meeting
 
-**Questions?** Feel free to [contact us](/post/contact/) or reach us on the N4UH repeater (145.410 MHz, 136.5 PL).
+**Questions?** Feel free to [contact us](/pages/contact/) or reach us on the N4UH repeater (145.410 MHz, 136.5 PL).
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {

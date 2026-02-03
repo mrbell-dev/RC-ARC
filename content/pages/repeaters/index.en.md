@@ -54,7 +54,7 @@ Its role in resilience and preparedness makes it an important asset for both ama
 
 ## Listen Live
 
-You can listen to the N4UH repeater online through our [Broadcastify live feed](/post/live-feed/).
+You can listen to the N4UH repeater online through our [Broadcastify live feed](/pages/live-feed/).
 
 ## A Hub for Local Hams
 
