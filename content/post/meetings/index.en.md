@@ -5,6 +5,11 @@ description: "RARS club meeting information"
 categories: [Club Info]
 tags: [meetings, schedule]
 pin: true
+menu:
+  main:
+    name: Meetings
+    weight: 3
+    pre: fa-calendar-check
 ---
 
 ## Meeting Schedule

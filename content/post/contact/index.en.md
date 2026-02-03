@@ -4,6 +4,11 @@ date: 2025-01-02
 description: "Contact information for RARS"
 categories: [Club Info]
 tags: [contact]
+menu:
+  main:
+    name: Contact
+    weight: 5
+    pre: fa-envelope
 ---
 
 ## Contact Us

@@ -5,6 +5,11 @@ description: "About the Rowan Amateur Radio Society"
 categories: [Club Info]
 tags: [about, history]
 layout: page
+menu:
+  main:
+    name: About
+    weight: 6
+    pre: fa-info-circle
 ---
 
 ## About Us

@@ -1,0 +1,86 @@
+{{ define "main" }}
+  <article class="px-1">
+    <header class="mb-4">
+      <h1>{{ .Title }}</h1>
+    </header>
+
+    <div class="content">
+      {{ .Content }}
+    </div>
+
+    <!-- Annual/Recurring Events Section -->
+    {{ $generalEvents := where (where .Site.RegularPages "Type" "post") ".Params.tags" "intersect" (slice "event-general") }}
+    {{ if $generalEvents }}
+    <section class="mt-5">
+      <h2><i class="fas fa-repeat me-2"></i>Annual & Recurring Events</h2>
+      <p class="text-muted">Events that happen regularly throughout the year.</p>
+      <div class="row">
+        {{ range $generalEvents }}
+        <div class="col-12 mb-3">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title">
+                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+              </h5>
+              <p class="card-text">{{ .Description | default .Summary | plainify | truncate 150 }}</p>
+              <div class="text-muted small">
+                {{ if .Params.categories }}
+                  <i class="far fa-folder-open me-1"></i>
+                  {{ delimit .Params.categories ", " }}
+                {{ end }}
+              </div>
+            </div>
+          </div>
+        </div>
+        {{ end }}
+      </div>
+    </section>
+    {{ end }}
+
+    <!-- Specific Dated Events Section -->
+    {{ $calEvents := where (where .Site.RegularPages "Type" "post") ".Params.tags" "intersect" (slice "event-cal") }}
+    {{ if $calEvents }}
+    <section class="mt-5">
+      <h2><i class="fas fa-calendar-day me-2"></i>Upcoming Events</h2>
+      <p class="text-muted">Specific events with dates and times.</p>
+      <div class="row">
+        {{ range $calEvents }}
+        <div class="col-12 mb-3">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title">
+                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+              </h5>
+              {{ if .Params.event_date }}
+              <p class="text-primary mb-2">
+                <i class="far fa-calendar me-1"></i>
+                {{ .Params.event_date }}
+              </p>
+              {{ end }}
+              <p class="card-text">{{ .Description | default .Summary | plainify | truncate 150 }}</p>
+              <div class="text-muted small">
+                {{ if .Params.categories }}
+                  <i class="far fa-folder-open me-1"></i>
+                  {{ delimit .Params.categories ", " }}
+                {{ end }}
+              </div>
+            </div>
+          </div>
+        </div>
+        {{ end }}
+      </div>
+    </section>
+    {{ end }}
+
+    <!-- Show message if no events -->
+    {{ if and (not $generalEvents) (not $calEvents) }}
+    <section class="mt-5">
+      <div class="alert alert-info">
+        <i class="fas fa-info-circle me-2"></i>
+        No events posted yet. Check back soon or contact us for upcoming activities!
+      </div>
+    </section>
+    {{ end }}
+
+  </article>
+{{ end }}

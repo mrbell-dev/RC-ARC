@@ -5,6 +5,11 @@ description: "RARS repeater information and frequencies"
 categories: [Club Info]
 tags: [repeaters, frequencies]
 pin: true
+menu:
+  main:
+    name: Repeaters
+    weight: 4
+    pre: fa-tower-broadcast
 ---
 
 The Rowan Amateur Radio Society (RARS) operates a repeater system under the call sign N4UH that serves as a vital communication hub for amateur radio operators across Rowan County and surrounding areas. More than just a technical asset, the RARS repeater is a community resource that supports daily radio activity, emergency readiness, and public service communication.

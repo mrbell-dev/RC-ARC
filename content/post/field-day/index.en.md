@@ -1,9 +1,9 @@
 ---
 title: "Field Day"
 date: 2025-01-03
-description: "RARS Field Day activities and events"
+description: "ARRL Field Day - Annual amateur radio emergency preparedness exercise held the fourth full weekend of June"
 categories: [Activities]
-tags: [field-day, events]
+tags: [field-day, events, event-general]
 ---
 
 ## RARS 2025 Field Day
