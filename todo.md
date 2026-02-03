@@ -4,7 +4,3 @@
 
 - I think we want to remove things from post if they are not posts and if they are general information static pieces. For example the field day page is informational but the firecracker hamfest page is date based.
 - I also think we need to have instead of index.en.md in all of these it needs to be better named. We might have multiple things inside of the firecracker-hamfest folder because it happens yearly.
-
-#### Pending
-
-- Set up dedicated SheetMonkey/Google Forms endpoint for membership form (currently shares contact form endpoint)
