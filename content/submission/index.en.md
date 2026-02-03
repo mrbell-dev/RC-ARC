@@ -1,15 +1,18 @@
 ---
-title: "Thank you for submitting!"
+title: "Thank You!"
 date: 2025-01-01
-description: "Thank you page for submitting the contact-us form."
+description: "Thank you for your submission"
 categories: []
 tags: []
 layout: page
 ---
 
-## Thank you!
+## Thank you for your submission!
 
-Thank you for submitting our contact form. We will try to get back to you as soon as possible. 
+We have received your information and will get back to you as soon as possible.
 
-- [Go Back](/post/contact/) 
+---
+
 - [Go Home](/)
+- [Contact Us](/post/contact/)
+- [About RARS](/about/)
