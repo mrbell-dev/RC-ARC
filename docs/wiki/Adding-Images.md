@@ -11,49 +11,29 @@ Images can be stored in two places:
 | **Post folder** | Images used only in that specific post |
 | **assets/img/** | Shared images used across multiple pages |
 
-## Method 1: Adding Images to a Post Folder
+## Method 1: Adding Images to the Assets Folder
 
-This is the easiest method for most posts.
+Upload images to `assets/img/` (or a subfolder) so they can be referenced from any content file.
 
-### Step 1: Navigate to Your Post Folder
-1. Go to `content/post/your-post-name/`
-2. You should see `index.en.md` already there
+### Step 1: Navigate to Assets Folder
+1. Go to `assets/img/commons/` (for shared images) or create a subfolder
 
 ### Step 2: Upload the Image
 1. Click **Add file** > **Upload files**
 2. Drag your image file or click "choose your files"
-3. Write a commit message like "Add photos to Field Day post"
+3. Write a commit message like "Add photos for Field Day post"
 4. Click **Commit changes**
 
 ### Step 3: Reference the Image in Your Post
-In your `index.en.md` file, add:
+In your `.md` file, add:
 
 ```markdown
-![Description of image](image-filename.jpg)
+![Description of image](/img/commons/image-filename.jpg)
 ```
 
 **Example:**
 ```markdown
-![Club members at Field Day 2024](field-day-group.jpg)
-```
-
-## Method 2: Adding Shared Images
-
-For images used on multiple pages (like logos).
-
-### Step 1: Navigate to Assets Folder
-1. Go to `assets/img/commons/`
-
-### Step 2: Upload the Image
-1. Click **Add file** > **Upload files**
-2. Upload your image
-3. Commit the changes
-
-### Step 3: Reference the Image
-Use the full path from assets:
-
-```markdown
-![Description](/img/commons/your-image.jpg)
+![Club members at Field Day 2024](/img/commons/field-day-group.jpg)
 ```
 
 ## Image Formatting Options

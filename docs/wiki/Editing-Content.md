@@ -7,9 +7,10 @@ This guide shows you how to make changes to existing pages on the website.
 1. Go to the [RC-ARC repository](https://github.com/mrbell-dev/RC-ARC)
 2. Navigate to the `content/` folder
 3. Find the page you want to edit:
-   - **Home page:** `_index.en.md`
-   - **About page:** `about/index.en.md`
-   - **Posts/Articles:** Look in `post/` folder (e.g., `post/meetings/index.en.md`)
+   - **Home page:** `_index.md`
+   - **Static pages:** Look in `pages/` folder (e.g., `pages/meetings.md`)
+   - **Events:** Look in `events/` folder (e.g., `events/field-day.md`)
+   - **Posts:** Look in `posts/` folder
 
 ## Using GitHub's Web Editor
 
@@ -46,7 +47,7 @@ Every page starts with a section between `---` marks called "front matter." This
 ```yaml
 ---
 title: "Page Title"
-date: 2025-01-15
+date: 2026-02-04
 description: "A short description for search engines"
 categories: [Club Info]
 tags: [meetings, schedule]
@@ -58,9 +59,9 @@ tags: [meetings, schedule]
 | Field | Purpose | Example |
 |-------|---------|---------|
 | `title` | The page heading | `"Club Meetings"` |
-| `date` | When the post was created/updated | `2025-01-15` |
+| `date` | When the post was created/updated | `2026-02-04` |
 | `description` | Shows in search results | `"Monthly meeting info"` |
-| `categories` | Groups similar content | `[Club Info]`, `[Events]` |
+| `categories` | Groups similar content | `[Club Info]`, `[Activities]` |
 | `tags` | Keywords for finding content | `[meetings, schedule]` |
 
 **Tip:** Only change front matter if you know what you're doing. The main content is below the second `---`.
@@ -84,7 +85,7 @@ tags: [meetings, schedule]
 ### Links
 ```markdown
 [Link text](https://example.com)
-[Link to another page](/post/meetings/)
+[Link to another page](/pages/meetings/)
 ```
 
 ### Lists
@@ -107,17 +108,17 @@ tags: [meetings, schedule]
 ## Common Edits
 
 ### Updating Meeting Information
-1. Go to `content/post/meetings/index.en.md`
+1. Go to `content/pages/meetings.md`
 2. Edit the meeting time, location, or other details
 3. Commit your changes
 
 ### Updating Contact Information
-1. Go to `content/post/contact/index.en.md`
+1. Go to `content/pages/contact.md`
 2. Update email, phone, or address as needed
 3. Commit your changes
 
 ### Updating Repeater Information
-1. Go to `content/post/repeaters/index.en.md`
+1. Go to `content/pages/repeaters.md`
 2. Update frequencies, tones, or other details
 3. Commit your changes
 

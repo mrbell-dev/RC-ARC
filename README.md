@@ -19,6 +19,16 @@ Website for the **Rowan Amateur Radio Society (RARS)**, call sign **N4UH**, loca
 - **Hosting:** GitHub Pages
 - **Deployment:** GitHub Actions (automatic on push)
 
+## Content Structure
+
+Content is organized into three sections:
+
+- **`content/pages/`** - Static informational pages (about, meetings, repeaters, contact, etc.)
+- **`content/events/`** - Event pages (field day, hamfests) with special tags for the Activities page
+- **`content/posts/`** - News and announcements (date-based blog posts)
+
+All content files use flat `.md` files (e.g., `pages/about.md`) with no `.en.` language suffix.
+
 ## Local Development
 
 Prerequisites: Git, Go, and Hugo extended installed locally.

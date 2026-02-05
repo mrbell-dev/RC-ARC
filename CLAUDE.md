@@ -28,47 +28,63 @@ This is the website for the **Rowan Amateur Radio Society (RARS)**, a ham radio 
 ~/go/bin/hugo --minify --gc
 ```
 
+Note: Go must be in PATH for Hugo modules to work. If `hugo serve` fails with a module error, ensure `/usr/local/go/bin` is in your PATH.
+
 ## Content Structure
 
 ```
 content/
-├── _index.md                 # Home page (list page)
+├── _index.md                 # Home page (static content + upcoming events/recent posts)
 ├── submission.md             # Form thank you page
-├── categories/_index.md      # Category listing (list page)
-├── tags/_index.md            # Tag listing (list page)
-├── archives/index.html       # Archive listing (theme layout)
+├── categories/_index.md      # Category listing
+├── tags/_index.md            # Tag listing
+├── archives/index.html       # Archive listing
 │
 ├── pages/                    # Static informational pages
 │   ├── about.md
-│   ├── activities.md         # Google Calendar embed
+│   ├── activities.md         # Google Calendar + event listings (custom layout)
 │   ├── links.md
 │   ├── contact.md            # Contact form (SheetMonkey)
 │   ├── membership.md         # Membership application form
 │   ├── meetings.md
-│   ├── repeaters.md
-│   ├── local-repeaters.md
+│   ├── repeaters.md          # Links to local-repeaters.md
+│   ├── local-repeaters.md    # Not in sidebar nav, linked from repeaters
 │   ├── join-us.md
 │   ├── live-feed.md          # Broadcastify embed (2m only)
 │   ├── ares-net.md
 │   ├── privacy-policy.md
 │   └── silent-keys.md
 │
-├── events/                   # Recurring event information
-│   ├── field-day.md          # tag: event-general
-│   └── firecracker-hamfest.md # tag: event-cal
+├── events/                   # Event pages
+│   ├── field-day.md          # tag: event-general (recurring)
+│   └── firecracker-hamfest.md # tag: event-cal (dated, has event_date)
 │
 └── posts/                    # News/announcements (date-based)
-    └── .gitkeep              # Empty, ready for future posts
+    └── (empty, ready for future posts)
 ```
 
 ### File Naming
 - `_index.md` = List/section pages (home, categories, tags)
-- `name.md` = Single content pages
+- `name.md` = Single content pages (flat files, no subdirectories)
 - No `.en.` suffix needed (English is default language)
 
 ### Event Tags
 - `event-general` - Annual/recurring events (displayed in Activities page)
-- `event-cal` - Specific dated events (supports `event_date` front matter)
+- `event-cal` - Specific dated events (supports `event_date` front matter, also shown on home page)
+
+### Categories
+- `Club Info` - General club information (meetings, membership, contact, etc.)
+- `Activities` - Events and activities (field day, hamfests, ARES)
+- `Resources` - Helpful links and reference material
+
+### Custom Layout Overrides
+
+The Chirpy theme filters many templates by `"Type" "post"`. Since content lives in `pages/`, `events/`, and `posts/`, the following layouts override the theme to include all content types:
+
+- `layouts/home.html` - Home page with static content, upcoming events feed, and recent posts feed
+- `layouts/_default/activities.html` - Activities page with event listings by tag
+- `layouts/_default/archives.html` - Archives page (all content, not just "post" type)
+- `layouts/taxonomy/category.terms.html` - Categories page (all content, not just "post" type)
 
 ### Assets
 - `assets/img/commons/rars_logo.png` - Club logo
@@ -87,6 +103,10 @@ content/
 ### Documentation
 - `docs/wiki/` - Source files for GitHub Wiki (documentation for non-technical users)
 - GitHub Wiki at https://github.com/mrbell-dev/RC-ARC/wiki
+
+## Sidebar Navigation
+
+Pages appear in the sidebar only if they have a `menu: main` entry in front matter. Not all pages are in the sidebar (e.g., local-repeaters is linked from the repeaters page instead).
 
 ## Pinned Posts
 
@@ -117,3 +137,4 @@ See `todo.md` for current items:
 - Broadcastify feed only streams the 2m repeater (145.410 MHz), not the 70cm repeater
 - Favicon icons are CC-BY licensed from [irl.xyz](https://irl.xyz/blog/2021/2021w127/) - attribution in About page
 - Internal links use `/pages/` for static pages and `/events/` for event pages
+- `.claude/` is in `.gitignore` — local Claude Code settings are not committed

@@ -18,17 +18,19 @@ You don't need to understand the technical details - just know that editing text
 ```
 RC-ARC/
 ├── content/              # All website content
-│   ├── _index.en.md      # Home page
-│   ├── about/            # About page
-│   ├── activities/       # Activities & calendar
-│   ├── links/            # Helpful links
-│   └── post/             # Blog posts and articles
-│       ├── meetings/
-│       ├── repeaters/
-│       ├── join-us/
-│       ├── contact/
-│       ├── field-day/
-│       └── ...
+│   ├── _index.md         # Home page
+│   ├── submission.md     # Form thank you page
+│   ├── pages/            # Static informational pages
+│   │   ├── about.md
+│   │   ├── meetings.md
+│   │   ├── repeaters.md
+│   │   ├── contact.md
+│   │   └── ...
+│   ├── events/           # Event pages
+│   │   ├── field-day.md
+│   │   └── firecracker-hamfest.md
+│   └── posts/            # News and announcements
+├── layouts/              # Custom layout overrides
 ├── config/               # Site configuration
 │   └── _default/
 │       ├── hugo.toml     # Main settings
@@ -45,42 +47,58 @@ RC-ARC/
 
 ### The `content/` Folder
 
-This is where all the website text lives. Each page has its own folder:
+This is where all the website text lives. Content is organized into sections:
 
-| Folder | Purpose | URL |
-|--------|---------|-----|
-| `_index.en.md` | Home page | `/` |
-| `about/` | About RARS | `/about/` |
-| `activities/` | Events calendar | `/activities/` |
-| `links/` | Helpful links | `/links/` |
-| `post/` | All posts/articles | `/post/` |
+| Section | Purpose | URL Pattern |
+|---------|---------|-------------|
+| `pages/` | Static informational pages | `/pages/about/`, `/pages/meetings/` |
+| `events/` | Event pages | `/events/field-day/` |
+| `posts/` | News and announcements | `/posts/my-post/` |
+| `_index.md` | Home page | `/` |
 
-### The `post/` Folder
+### The `pages/` Folder
 
-Most content lives in the `post/` folder. Each post has its own subfolder:
+Most of the site content lives here as flat `.md` files:
 
 ```
-post/
-├── meetings/
-│   └── index.en.md       # /post/meetings/
-├── repeaters/
-│   └── index.en.md       # /post/repeaters/
-├── field-day/
-│   ├── index.en.md       # /post/field-day/
-│   └── field-day.jpg     # Image for this post
-├── contact/
-│   └── index.en.md       # /post/contact/
-└── ...
+pages/
+├── about.md              # /pages/about/
+├── activities.md         # /pages/activities/
+├── ares-net.md           # /pages/ares-net/
+├── contact.md            # /pages/contact/
+├── join-us.md            # /pages/join-us/
+├── links.md              # /pages/links/
+├── live-feed.md          # /pages/live-feed/
+├── local-repeaters.md    # /pages/local-repeaters/
+├── meetings.md           # /pages/meetings/
+├── membership.md         # /pages/membership/
+├── privacy-policy.md     # /pages/privacy-policy/
+├── repeaters.md          # /pages/repeaters/
+└── silent-keys.md        # /pages/silent-keys/
 ```
 
-**Why folders instead of single files?**
-- Keeps images with their posts
-- Makes URLs cleaner (`/post/meetings/` instead of `/post/meetings.html`)
-- Easier to organize related content
+### The `events/` Folder
+
+Event pages that appear on the Activities page:
+
+```
+events/
+├── field-day.md              # Recurring event (tag: event-general)
+└── firecracker-hamfest.md    # Dated event (tag: event-cal)
+```
+
+### The `posts/` Folder
+
+News and announcements go here. Each post is a single `.md` file:
+
+```
+posts/
+└── my-announcement.md    # /posts/my-announcement/
+```
 
 ## Content File Anatomy
 
-Every content file (`index.en.md`) has two parts:
+Every content file (e.g., `about.md`) has two parts:
 
 ### 1. Front Matter
 The section between `---` marks at the top:
@@ -88,7 +106,7 @@ The section between `---` marks at the top:
 ```yaml
 ---
 title: "Page Title"
-date: 2025-01-15
+date: 2026-02-04
 description: "Page description"
 categories: [Club Info]
 tags: [tag1, tag2]
@@ -109,13 +127,12 @@ Located in `config/_default/`:
 | `hugo.toml` | Site URL, title, basic settings |
 | `params.toml` | Theme options, social links |
 | `languages.toml` | Language settings |
-| `markup.toml` | How Markdown is processed |
 
 **Note:** Most users won't need to edit these files.
 
 ## Menu System
 
-The main navigation menu is controlled by front matter in content files:
+The sidebar navigation menu is controlled by front matter in content files:
 
 ```yaml
 menu:
@@ -125,21 +142,20 @@ menu:
     pre: fa-envelope     # Icon (Font Awesome)
 ```
 
-Not all pages need to be in the menu - only key pages have this.
+Not all pages need to be in the menu - only key pages have this. Pages without a `menu` entry won't appear in the sidebar but can still be linked to from other pages.
 
 ## Categories and Tags
 
 ### Categories
 Broad groupings for content:
 - `Club Info` - General club information
-- `Events` - Special events and activities
+- `Activities` - Events and activities
 - `Resources` - Helpful resources and guides
-- `Technical` - Technical articles
 
 ### Tags
 More specific keywords. Examples:
 - `meetings`, `repeaters`, `field-day`
-- `event-general`, `event-cal` (special tags for calendar)
+- `event-general`, `event-cal` (special tags for the Activities page)
 
 ## Special Content Types
 
@@ -155,8 +171,10 @@ Posts tagged for the Activities page:
 tags: [event-general]    # Annual/recurring events
 # OR
 tags: [event-cal]        # Specific dated events
-event_date: 2025-07-04   # For event-cal posts
+event_date: "July 4, 2025 - 8:00 AM to 2:00 PM"  # For event-cal posts
 ```
+
+Events tagged `event-cal` also appear in the "Upcoming Events" section on the home page.
 
 ## Assets and Static Files
 
@@ -182,25 +200,26 @@ static/
 
 ## URL Structure
 
-URLs are based on folder structure:
+URLs are based on the content section and filename:
 
 | Content Location | URL |
 |-----------------|-----|
-| `content/_index.en.md` | `/` |
-| `content/about/index.en.md` | `/about/` |
-| `content/post/meetings/index.en.md` | `/post/meetings/` |
-| `content/links/index.en.md` | `/links/` |
+| `content/_index.md` | `/` |
+| `content/pages/about.md` | `/pages/about/` |
+| `content/pages/meetings.md` | `/pages/meetings/` |
+| `content/events/field-day.md` | `/events/field-day/` |
+| `content/posts/my-post.md` | `/posts/my-post/` |
 
 ## Making Changes
 
 Most changes you'll make:
-1. **Edit existing posts** - Change text in `index.en.md` files
-2. **Add new posts** - Create new folders in `content/post/`
-3. **Add images** - Upload to post folders or `assets/img/`
+1. **Edit existing pages** - Change text in `.md` files
+2. **Add new posts** - Create new `.md` files in `content/posts/`
+3. **Add images** - Upload to `assets/img/`
 
 Things to avoid changing:
 - Configuration files (unless you know what you're doing)
-- Theme files
+- Layout files in `layouts/`
 - The basic folder structure
 
 ## Next Steps
