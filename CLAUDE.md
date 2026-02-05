@@ -32,37 +32,43 @@ This is the website for the **Rowan Amateur Radio Society (RARS)**, a ham radio 
 
 ```
 content/
-├── _index.en.md              # Home page
-├── categories/               # System - category listing
-├── tags/                     # System - tag listing
-├── archives/                 # System - archive listing
-├── submission/               # Utility - form thank you page
+├── _index.md                 # Home page (list page)
+├── submission.md             # Form thank you page
+├── categories/_index.md      # Category listing (list page)
+├── tags/_index.md            # Tag listing (list page)
+├── archives/index.html       # Archive listing (theme layout)
 │
 ├── pages/                    # Static informational pages
-│   ├── about/                # About RARS (includes CC-BY credits)
-│   ├── activities/           # Activities & Events (Google Calendar)
-│   ├── links/                # Helpful links and resources
-│   ├── contact/              # Contact form (SheetMonkey)
-│   ├── membership/           # Membership application form
-│   ├── meetings/             # Meeting schedule
-│   ├── repeaters/            # N4UH repeater info
-│   ├── local-repeaters/      # Quick reference for nearby repeaters
-│   ├── join-us/              # How to join
-│   ├── live-feed/            # Broadcastify embed (2m only)
-│   ├── ares-net/             # ARES/emergency comms
-│   ├── privacy-policy/       # Privacy policy
-│   └── silent-keys/          # Memorial page
+│   ├── about.md
+│   ├── activities.md         # Google Calendar embed
+│   ├── links.md
+│   ├── contact.md            # Contact form (SheetMonkey)
+│   ├── membership.md         # Membership application form
+│   ├── meetings.md
+│   ├── repeaters.md
+│   ├── local-repeaters.md
+│   ├── join-us.md
+│   ├── live-feed.md          # Broadcastify embed (2m only)
+│   ├── ares-net.md
+│   ├── privacy-policy.md
+│   └── silent-keys.md
 │
 ├── events/                   # Recurring event information
-│   ├── field-day/            # Field Day (tag: event-general)
-│   └── firecracker-hamfest/  # Firecracker Hamfest (tag: event-cal)
+│   ├── field-day.md          # tag: event-general
+│   └── firecracker-hamfest.md # tag: event-cal
 │
-└── posts/                    # News/announcements (date-based, currently empty)
+└── posts/                    # News/announcements (date-based)
+    └── .gitkeep              # Empty, ready for future posts
 ```
+
+### File Naming
+- `_index.md` = List/section pages (home, categories, tags)
+- `name.md` = Single content pages
+- No `.en.` suffix needed (English is default language)
 
 ### Event Tags
 - `event-general` - Annual/recurring events (displayed in Activities page)
-- `event-cal` - Specific dated events (displayed in Activities page, supports `event_date` front matter)
+- `event-cal` - Specific dated events (supports `event_date` front matter)
 
 ### Assets
 - `assets/img/commons/rars_logo.png` - Club logo
@@ -89,8 +95,8 @@ Three pages have `pin: true`: Join Us, Repeaters, Meetings.
 ## Forms
 
 Both contact and membership forms use SheetMonkey for backend:
-- Contact form: `/content/pages/contact/index.en.md`
-- Membership form: `/content/pages/membership/index.en.md`
+- Contact form: `content/pages/contact.md`
+- Membership form: `content/pages/membership.md`
 
 Forms include JavaScript validation for email fields.
 
