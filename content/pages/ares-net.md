@@ -1,6 +1,6 @@
 ---
 title: "ARES and Emergency Communications"
-date: 2025-01-03
+date: 2026-02-04
 description: "Amateur Radio Emergency Service activities at RARS"
 categories: [Activities]
 tags: [ares, emergency, net]

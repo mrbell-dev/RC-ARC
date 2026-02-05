@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy"
-date: 2025-01-02
+date: 2026-02-04
 description: "RARS privacy policy"
 categories: [Club Info]
 tags: [privacy, legal]

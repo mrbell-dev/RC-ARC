@@ -1,6 +1,6 @@
 ---
 title: "Silent Keys"
-date: 2025-01-01
+date: 2026-02-04
 description: "In memory of RARS members who have become Silent Keys"
 categories: [Club Info]
 tags: [silent-keys, memorial]

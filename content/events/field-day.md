@@ -1,6 +1,6 @@
 ---
 title: "Field Day"
-date: 2025-01-03
+date: 2026-02-04
 description: "ARRL Field Day - Annual amateur radio emergency preparedness exercise held the fourth full weekend of June"
 categories: [Activities]
 tags: [field-day, events, event-general]

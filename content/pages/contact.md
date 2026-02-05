@@ -1,6 +1,6 @@
 ---
 title: "Contact Us"
-date: 2025-01-02
+date: 2026-02-04
 description: "Contact information for RARS"
 categories: [Club Info]
 tags: [contact]

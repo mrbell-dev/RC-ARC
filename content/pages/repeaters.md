@@ -1,6 +1,6 @@
 ---
 title: "Repeaters"
-date: 2025-01-01
+date: 2026-02-04
 description: "RARS repeater information and frequencies"
 categories: [Club Info]
 tags: [repeaters, frequencies]
@@ -59,3 +59,7 @@ You can listen to the N4UH repeater online through our [Broadcastify live feed](
 ## A Hub for Local Hams
 
 For many operators, the repeater is where friendships form, skills grow, and the spirit of amateur radio thrives. Whether checking into a weekly net or chatting on the drive home, the RARS repeater keeps the Rowan County ham community connected.
+
+## Area Repeaters
+
+Looking for other repeaters in the region? Check out our [Local Repeaters](/pages/local-repeaters/) guide for a quick reference to repeaters in and around Rowan County.

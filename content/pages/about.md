@@ -1,6 +1,6 @@
 ---
 title: "About RARS"
-date: 2025-01-01
+date: 2026-02-04
 description: "About the Rowan Amateur Radio Society"
 categories: [Club Info]
 tags: [about, history]

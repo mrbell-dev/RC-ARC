@@ -9,7 +9,7 @@
     </div>
 
     <!-- Annual/Recurring Events Section -->
-    {{ $generalEvents := where (where .Site.RegularPages "Type" "post") ".Params.tags" "intersect" (slice "event-general") }}
+    {{ $generalEvents := where .Site.RegularPages ".Params.tags" "intersect" (slice "event-general") }}
     {{ if $generalEvents }}
     <div class="content mt-5">
       <h2><i class="fas fa-repeat me-2"></i>Annual & Recurring Events</h2>
@@ -38,7 +38,7 @@
     {{ end }}
 
     <!-- Specific Dated Events Section -->
-    {{ $calEvents := where (where .Site.RegularPages "Type" "post") ".Params.tags" "intersect" (slice "event-cal") }}
+    {{ $calEvents := where .Site.RegularPages ".Params.tags" "intersect" (slice "event-cal") }}
     {{ if $calEvents }}
     <div class="content mt-5">
       <h2><i class="fas fa-calendar-day me-2"></i>Upcoming Events</h2>

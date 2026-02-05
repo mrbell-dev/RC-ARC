@@ -1,6 +1,6 @@
 ---
 title: "Firecracker Hamfest 2025"
-date: 2025-02-01
+date: 2026-02-04
 description: "Annual Firecracker Hamfest - Buy, sell, and trade amateur radio equipment"
 categories: [Activities]
 tags: [hamfest, events, event-cal]

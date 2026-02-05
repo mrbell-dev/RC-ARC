@@ -1,6 +1,6 @@
 ---
 title: "Live Repeater Feed"
-date: 2025-01-01
+date: 2026-02-04
 description: "Listen to the N4UH repeater live on Broadcastify"
 categories: [Club Info]
 tags: [repeater, broadcastify, live]

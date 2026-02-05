@@ -1,6 +1,6 @@
 ---
 title: "Helpful Links"
-date: 2025-01-01
+date: 2026-02-04
 description: "Useful resources for amateur radio operators"
 categories: [Resources]
 tags: [links, resources]

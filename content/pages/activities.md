@@ -1,6 +1,6 @@
 ---
 title: "Activities & Events"
-date: 2025-01-01
+date: 2026-02-04
 description: "RARS club activities, events, and calendar"
 layout: activities
 menu:
