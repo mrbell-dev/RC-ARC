@@ -8,7 +8,7 @@ tags: [privacy, legal]
 
 # RARS Website Privacy Policy
 
-The Rowan Amateur Radio Society (RARS) is committed to respecting and protecting your privacy. This policy explains how information is collected and used when you visit the RARS website at gettinhammered.com. By using this website, you consent to the practices described below.
+The Rowan Amateur Radio Society (RARS) is committed to respecting and protecting your privacy. This policy explains how information is collected and used when you visit the RARS website at rowanars.net. By using this website, you consent to the practices described below.
 
 ## Information Collected Automatically
 

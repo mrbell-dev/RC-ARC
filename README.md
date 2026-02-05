@@ -2,7 +2,7 @@
 
 Website for the **Rowan Amateur Radio Society (RARS)**, call sign **N4UH**, located in Salisbury, Rowan County, North Carolina.
 
-**Live site:** [gettinhammered.com](https://gettinhammered.com)
+**Live site:** [rowanars.net](https://rowanars.net)
 
 ## About RARS
 
