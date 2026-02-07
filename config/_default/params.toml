@@ -34,8 +34,9 @@ author = "ai2f"
     addressCountry = "US"
 
 [assets]
-  # Self-hosted static assets, default to false. If true, the assets will be hosted on your own server.
-  self_host = false
+  # Self-hosted static assets - set to true to avoid loading from remote CDNs
+  # This ensures fonts and icons are served locally from /lib/
+  self_host = true
 
 [social]
   name = "Rowan Amateur Radio Society"

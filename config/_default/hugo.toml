@@ -18,8 +18,21 @@ hasCJKLanguage = false
 # Make sure to include JSON output to support the search functionality.
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
+  page = ["HTML"]
+
+# Sitemap configuration
+[sitemap]
+  changeFreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+# Disable other languages (only English)
+disableLanguages = ["zh-cn", "zh-CN"]
 
 # Import the theme.
 [module]
   [[module.imports]]
     path = "github.com/geekifan/hugo-theme-chirpy"
+    # Disable importing content from the theme's example site
+    disableContent = true

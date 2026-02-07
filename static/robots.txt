@@ -1,0 +1,13 @@
+# robots.txt for Rowan Amateur Radio Society website
+# https://rowanars.net
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://rowanars.net/sitemap.xml
+
+# Disallow admin and search paths that don't exist
+Disallow: /admin/
+Disallow: /wp-admin/
+Disallow: /wp-login.php
