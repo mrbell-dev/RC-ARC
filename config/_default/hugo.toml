@@ -1,5 +1,5 @@
 # The base URL for the site.
-baseURL = 'https://rowanars.net/'
+baseURL = 'https://www.rowanars.net/'
 # The title of the site.
 title = 'Rowan Amateur Radio Society'
 # Enable Git info › https://gohugo.io/methods/page/gitinfo/

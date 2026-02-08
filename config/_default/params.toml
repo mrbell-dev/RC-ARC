@@ -23,8 +23,8 @@ author = "ai2f"
   type = "Organization"
   name = "Rowan Amateur Radio Society"
   alternateName = "RARS"
-  url = "https://rowanars.net"
-  logo = "https://rowanars.net/img/commons/rars_logo.png"
+  url = "https://www.rowanars.net"
+  logo = "https://www.rowanars.net/img/commons/rars_logo.png"
   # Location
   [schema.address]
     streetAddress = "1140 Julian Rd"
@@ -40,7 +40,7 @@ author = "ai2f"
 
 [social]
   name = "Rowan Amateur Radio Society"
-  url = "https://rowanars.net"
+  url = "https://www.rowanars.net"
 
 [[social.links]]
   type = "email"

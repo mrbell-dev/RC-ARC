@@ -1,11 +1,11 @@
 # robots.txt for Rowan Amateur Radio Society website
-# https://rowanars.net
+# https://www.rowanars.net
 
 User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://rowanars.net/sitemap.xml
+Sitemap: https://www.rowanars.net/sitemap.xml
 
 # Disallow admin and search paths that don't exist
 Disallow: /admin/

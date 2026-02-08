@@ -16,7 +16,7 @@ This is the website for the **Rowan Amateur Radio Society (RARS)**, a ham radio 
   - 70cm: 443.250 MHz, +5.000 offset, 136.5 PL
 - **Officers:** David Jackman N7WOY (Pres), Steven Snider KJ6FWQ (VP), Richard Paschall AJ4UX (Sec), Robert Gresham N4DNC (Treas)
 - **Contact:** rustyutahn@yahoo.com, (704) 433-7371
-- **Website:** rowanars.net
+- **Website:** www.rowanars.net
 
 ## Build and Run Commands
 
