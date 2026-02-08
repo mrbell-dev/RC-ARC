@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Join on Rowan Amateur Radio Society</title><link>https://www.rowanars.net/tags/join/</link><description>Recent content in Join on Rowan Amateur Radio Society</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 04 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.rowanars.net/tags/join/index.xml" rel="self" type="application/rss+xml"/><item><title>Join Us</title><link>https://www.rowanars.net/pages/join-us/</link><pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate><guid>https://www.rowanars.net/pages/join-us/</guid><description>&lt;p&gt;Thinking about getting into amateur radio? Already licensed and looking for a local crew? The Rowan Amateur Radio Society (RARS) is a great place to plug in. We&amp;rsquo;re a relaxed, friendly group that enjoys learning, experimenting, and helping each other out &amp;ndash; on the air and in person.&lt;/p&gt;
+&lt;h2 id="why-join-rars" id=why-join-rars&gt;
+ 
+ &lt;span class="me-2"&gt;Why Join RARS&lt;/span&gt;
+ &lt;a href="#why-join-rars" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;p&gt;You&amp;rsquo;ll Find a Community. Ham radio is more fun with people around you. At RARS, you&amp;rsquo;ll meet operators of all experience levels who are happy to share ideas, answer questions, and swap stories.&lt;/p&gt;</description></item><item><title>Membership Application</title><link>https://www.rowanars.net/pages/membership/</link><pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate><guid>https://www.rowanars.net/pages/membership/</guid><description>&lt;h2 id="join-rars" id=join-rars&gt;
+ 
+ &lt;span class="me-2"&gt;Join RARS&lt;/span&gt;
+ &lt;a href="#join-rars" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;p&gt;Thank you for your interest in joining the Rowan Amateur Radio Society! Whether you&amp;rsquo;re a newly licensed ham or an experienced operator, we welcome you to our club.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Membership is open to all&lt;/strong&gt; - you don&amp;rsquo;t need to be licensed to join, but active participation in club activities is encouraged.&lt;/p&gt;
+&lt;p&gt;Please complete the form below to apply for membership. We&amp;rsquo;ll be in touch shortly!&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="membership-application" id=membership-application&gt;
+ 
+ &lt;span class="me-2"&gt;Membership Application&lt;/span&gt;
+ &lt;a href="#membership-application" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;!-- TODO: Set up SheetMonkey or Google Forms endpoint for this form --&gt;
+&lt;form id="membershipForm" action="https://api.sheetmonkey.io/form/tsXjKtuurQAQJFvwaGGvuX" method="post" class="mb-4"&gt;
+&lt;h3 id="contact-information" id=contact-information&gt;
+ 
+ &lt;span class="me-2"&gt;Contact Information&lt;/span&gt;
+ &lt;a href="#contact-information" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h3&gt;&lt;div class="mb-3"&gt;
+ &lt;label class="form-label"&gt;Full Name: &lt;span class="text-danger"&gt;*&lt;/span&gt;&lt;/label&gt;
+ &lt;input type="text" name="Name" required class="form-control" placeholder="Your full name"&gt;
+&lt;/div&gt;
+&lt;div class="mb-3"&gt;
+ &lt;label class="form-label"&gt;Call Sign (if licensed):&lt;/label&gt;
+ &lt;input type="text" name="Callsign" class="form-control" pattern="[A-Za-z]{1,2}[0-9][A-Za-z]{1,3}" title="Enter a valid amateur radio call sign (e.g., W4ABC, KJ4XYZ)" placeholder="e.g., W4ABC"&gt;
+&lt;/div&gt;
+&lt;div class="mb-3"&gt;
+ &lt;label class="form-label"&gt;License Class:&lt;/label&gt;
+ &lt;select name="License Class" class="form-select"&gt;
+ &lt;option value="Not Licensed"&gt;Not Licensed (Yet!)&lt;/option&gt;
+ &lt;option value="Technician"&gt;Technician&lt;/option&gt;
+ &lt;option value="General"&gt;General&lt;/option&gt;
+ &lt;option value="Amateur Extra"&gt;Amateur Extra&lt;/option&gt;
+ &lt;/select&gt;
+&lt;/div&gt;
+&lt;div class="mb-3"&gt;
+ &lt;label class="form-label"&gt;Email: &lt;span class="text-danger"&gt;*&lt;/span&gt;&lt;/label&gt;
+ &lt;input type="email" id="emailInput" name="Email" required class="form-control" pattern="[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}" title="Please enter a valid email address" placeholder="your.email@example.com"&gt;
+ &lt;div id="emailFeedback" class="invalid-feedback"&gt;Please enter a valid email address.&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mb-3"&gt;
+ &lt;label class="form-label"&gt;Phone Number:&lt;/label&gt;
+ &lt;input type="tel" name="Phone" class="form-control" placeholder="(xxx) xxx-xxxx"&gt;
+&lt;/div&gt;
+&lt;div class="mb-3"&gt;
+ &lt;label class="form-label"&gt;Mailing Address:&lt;/label&gt;
+ &lt;textarea name="Address" rows="3" class="form-control" placeholder="Street Address&amp;#10;City, State ZIP"&gt;&lt;/textarea&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h3 id="about-you-and-ham-radio" id=about-you-and-ham-radio&gt;
+ 
+ &lt;span class="me-2"&gt;About You and Ham Radio&lt;/span&gt;
+ &lt;a href="#about-you-and-ham-radio" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h3&gt;&lt;div class="mb-3"&gt;
+ &lt;label class="form-label"&gt;What do you want to do with ham radio? &lt;span class="text-danger"&gt;*&lt;/span&gt;&lt;/label&gt;
+ &lt;textarea name="Goals" rows="4" required class="form-control" placeholder="Tell us about your interests and goals in amateur radio..."&gt;&lt;/textarea&gt;
+ &lt;div class="form-text"&gt;Examples: emergency communications, contesting, DXing, digital modes, satellite ops, etc.&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mb-3"&gt;
+ &lt;label class="form-label"&gt;What are you currently doing with ham radio?&lt;/label&gt;
+ &lt;textarea name="Current Activities" rows="4" class="form-control" placeholder="What activities are you involved in now?"&gt;&lt;/textarea&gt;
+ &lt;div class="form-text"&gt;It's okay if you're just getting started!&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mb-3"&gt;
+ &lt;label class="form-label"&gt;What are your favorite things to do in ham radio?&lt;/label&gt;
+ &lt;textarea name="Favorites" rows="4" class="form-control" placeholder="What aspects of the hobby do you enjoy most?"&gt;&lt;/textarea&gt;
+&lt;/div&gt;
+&lt;div class="mb-3"&gt;
+ &lt;label class="form-label"&gt;What equipment do you plan on using in case of emergency?&lt;/label&gt;
+ &lt;textarea name="Emergency Equipment" rows="4" class="form-control" placeholder="Describe your emergency communication capabilities and equipment..."&gt;&lt;/textarea&gt;
+ &lt;div class="form-text"&gt;Examples: HT, mobile rig, base station, portable antennas, power backup, etc.&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="mb-3"&gt;
+ &lt;label class="form-label"&gt;Any plans on joining NC ARES (Amateur Radio Emergency Service)?&lt;/label&gt;
+ &lt;select name="ARES Interest" class="form-select"&gt;
+ &lt;option value="Not Sure"&gt;Not Sure / Need More Info&lt;/option&gt;
+ &lt;option value="Yes"&gt;Yes, I'm interested&lt;/option&gt;
+ &lt;option value="Already Member"&gt;Already a member&lt;/option&gt;
+ &lt;option value="No"&gt;Not at this time&lt;/option&gt;
+ &lt;/select&gt;
+ &lt;div class="form-text"&gt;Learn more about &lt;a href="https://www.arrl.org/ares" target="_blank"&gt;ARES&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;div class="mb-3"&gt;
+ &lt;label class="form-label"&gt;How did you hear about RARS?&lt;/label&gt;
+ &lt;input type="text" name="Referral" class="form-control" placeholder="Repeater, website, friend, hamfest, etc."&gt;
+&lt;/div&gt;
+&lt;div class="mb-3"&gt;
+ &lt;label class="form-label"&gt;Additional Comments:&lt;/label&gt;
+ &lt;textarea name="Comments" rows="3" class="form-control" placeholder="Anything else you'd like us to know?"&gt;&lt;/textarea&gt;
+&lt;/div&gt;
+&lt;input type="hidden" name="Form Type" value="Membership Application"&gt;
+&lt;input type="hidden" name="Submitted" value="x-sheetmonkey-current-date-time"&gt;
+&lt;div class="mb-3"&gt;
+ &lt;button type="submit" class="btn btn-primary btn-lg"&gt;Submit Application&lt;/button&gt;
+&lt;/div&gt;
+&lt;/form&gt;
+&lt;hr&gt;
+&lt;h2 id="what-happens-next" id=what-happens-next&gt;
+ 
+ &lt;span class="me-2"&gt;What Happens Next?&lt;/span&gt;
+ &lt;a href="#what-happens-next" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;We&amp;rsquo;ll review your application and get in touch via email&lt;/li&gt;
+&lt;li&gt;You&amp;rsquo;re welcome to attend our next meeting - visitors are always welcome!&lt;/li&gt;
+&lt;li&gt;Dues and membership details will be discussed at the meeting&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Questions?&lt;/strong&gt; Feel free to &lt;a href="https://www.rowanars.net/pages/contact/"&gt;contact us&lt;/a&gt; or reach us on the N4UH repeater (145.410 MHz, 136.5 PL).&lt;/p&gt;</description></item></channel></rss>
