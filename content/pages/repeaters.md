@@ -63,3 +63,7 @@ For many operators, the repeater is where friendships form, skills grow, and the
 ## Area Repeaters
 
 Looking for other repeaters in the region? Check out our [Local Repeaters](/pages/local-repeaters/) guide for a quick reference to repeaters in and around Rowan County.
+
+## Local Nets
+
+Want to check into a net? See our [Local Nets](/pages/nets/) page for a list of scheduled nets in and around Rowan County, including VHF/UHF and 10 meter/HF nets.
