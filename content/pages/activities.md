@@ -14,10 +14,8 @@ Stay up to date with RARS activities and events! Check out our calendar below fo
 
 ## Club Calendar
 
-<!-- TODO: Replace US Holidays calendar with RARS club Google Calendar -->
-<!-- To get your calendar ID: Google Calendar > Settings > Calendar settings > Integrate calendar -->
 <div class="ratio ratio-16x9 mb-4">
-  <iframe src="https://calendar.google.com/calendar/embed?src=en.usa%23holiday%40group.v.calendar.google.com&ctz=America%2FNew_York" style="border: 0" frameborder="0" scrolling="no"></iframe>
+  <iframe src="https://calendar.google.com/calendar/embed?src=9d777b2e9b360f5e14e262a995152bfcb5a83f57ae6267b0d6c621d97237ddba%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" frameborder="0" scrolling="no"></iframe>
 </div>
 
 ---
