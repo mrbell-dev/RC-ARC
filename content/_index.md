@@ -35,6 +35,9 @@ Come say hello on the air or in person — visitors are always welcome!
 ## Quick Links
 
 - [Join RARS](/pages/join-us/) — Membership info and how to get involved
+- [Membership Application](/pages/membership/) — Apply to join RARS online or download the PDF
+- [Contact Us](/pages/contact/) — Get in touch with the club
+- [Find an Elmer](/pages/elmer/) — Request a mentor to help you get started
 - [Repeaters](/pages/repeaters/) — Full repeater details and coverage
 - [Meetings](/pages/meetings/) — Schedule and directions
 - [Field Day](/events/field-day/) — Our annual Field Day event
