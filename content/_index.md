@@ -41,6 +41,3 @@ Come say hello on the air or in person — visitors are always welcome!
 - [Live Feed](/pages/live-feed/) — Listen to our repeater on Broadcastify
 - [About RARS](/pages/about/) — Club history and information
 
-## Browse Articles
-
-Looking for more? Check out all our posts by **[category](/categories/)** or browse the **[archives](/archives/)**.
