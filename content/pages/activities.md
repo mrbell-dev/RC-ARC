@@ -10,6 +10,8 @@ menu:
     pre: fa-calendar-days
 ---
 
+## Activities & Events
+
 Stay up to date with RARS activities and events! Check out our calendar below for upcoming meetings, hamfests, field days, and other club activities.
 
 ## Club Calendar

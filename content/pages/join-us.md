@@ -7,6 +7,8 @@ tags: [membership, join]
 pin: true
 ---
 
+## Join Us
+
 Thinking about getting into amateur radio? Already licensed and looking for a local crew? The Rowan Amateur Radio Society (RARS) is a great place to plug in. We're a relaxed, friendly group that enjoys learning, experimenting, and helping each other out -- on the air and in person.
 
 ## Why Join RARS

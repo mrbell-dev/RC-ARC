@@ -6,6 +6,8 @@ categories: [Resources]
 tags: [repeaters, local, reference]
 ---
 
+## Local Repeaters
+
 A quick reference guide to amateur radio repeaters in and around Rowan County, NC. This list includes repeaters within approximately 30 miles of Salisbury.
 
 *Data sourced from [RepeaterBook](https://www.repeaterbook.com/). Always verify frequencies before use.*

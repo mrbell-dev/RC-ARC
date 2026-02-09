@@ -6,6 +6,8 @@ categories: [Resources]
 tags: [nets, local, reference]
 ---
 
+## Local Nets
+
 A guide to amateur radio nets in and around Rowan County, NC. VHF/UHF nets listed are within approximately 30 miles of Salisbury. 10 meter and HF nets with broader reach are listed separately.
 
 *Always verify frequencies and schedules before checking in. Nets may change without notice.*

@@ -12,6 +12,8 @@ menu:
     pre: fa-link
 ---
 
+## Helpful Links
+
 A collection of useful resources for amateur radio operators, from our club pages to licensing information, equipment retailers, and more.
 
 ---

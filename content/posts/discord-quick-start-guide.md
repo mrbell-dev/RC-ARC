@@ -6,6 +6,8 @@ categories: [Resources]
 tags: [discord, guide, community]
 ---
 
+## Discord Quick Start Guide
+
 New to Discord? This quick start guide covers everything you need to know to get up and running. Discord is a free communication platform used by many amateur radio communities for text, voice, and video chat.
 
 ## What is Discord?
