@@ -17,11 +17,11 @@ Thank you for your interest in joining the Rowan Amateur Radio Society! Whether 
 
 **Membership is open to all** - you don't need to be licensed to join, but active participation in club activities is encouraged.
 
-Please complete the form below to apply for membership. We'll be in touch shortly!
+You can apply online using the form below, or [download the membership application (PDF)](/RARS-Membership-Application.pdf) and bring it with you to the next meeting.
 
 ---
 
-## Membership Application
+## Online Membership Application
 
 <!-- TODO: Set up SheetMonkey or Google Forms endpoint for this form -->
 <form id="membershipForm" action="https://api.sheetmonkey.io/form/tsXjKtuurQAQJFvwaGGvuX" method="post" class="mb-4">

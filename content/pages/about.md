@@ -42,9 +42,3 @@ RARS maintains two repeaters under the N4UH call sign:
 - **Phone:** (704) 433-7371
 
 Visitors are always welcome at our meetings!
-
----
-
-## Credits
-
-Ham radio icons used on this website are by [IRL](https://irl.xyz/blog/2021/2021w127/) and are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).

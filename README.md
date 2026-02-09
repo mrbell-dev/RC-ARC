@@ -64,7 +64,7 @@ hugo mod tidy
 ## Credits
 
 - **Theme:** [Hugo Theme Chirpy](https://github.com/geekifan/hugo-theme-chirpy)
-- **Favicon:** Ham radio icons by [IRL](https://irl.xyz/blog/2021/2021w127/), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- **Favicon:** N4UH club logo
 
 ## License
 

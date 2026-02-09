@@ -68,6 +68,8 @@ A collection of useful resources for amateur radio operators, from our club page
 - [APRS.fi](https://aprs.fi/) - APRS tracking and mapping
 - [PSK Reporter](https://pskreporter.info/) - Digital mode propagation reporting
 - [DX Summit](https://dxsummit.fi/) - DX cluster spots
+- [GMRS (FCC)](https://www.fcc.gov/wireless/bureau-divisions/mobility-division/general-mobile-radio-service-gmrs) - General Mobile Radio Service information
+- [NCMesh](https://ncmesh.net/) - North Carolina mesh networking community
 
 ---
 
@@ -76,6 +78,16 @@ A collection of useful resources for amateur radio operators, from our club page
 - [NOAA Space Weather](https://www.swpc.noaa.gov/) - Solar and geomagnetic conditions
 - [HF Propagation](https://www.voacap.com/) - HF propagation prediction
 - [DX Heat Map](https://dxheat.com/dxc/) - Real-time DX activity
+
+---
+
+## Discord Communities
+
+- [OARC - Online Amateur Radio Community](https://discord.gg/BQHuFbUG3P) - Large online ham radio community
+- [HHRC - Ham Radio Crash Course](https://canary.discord.com/invite/5Jrvazgm) - Ham Radio Crash Course Discord server
+- [The HamShack](https://discord.com/invite/S5ngBG5A2w) - General ham radio discussion server
+
+*Find more ham radio Discord servers at [Disboard](https://disboard.org/servers/tag/ham-radio).*
 
 ---
 

@@ -88,10 +88,9 @@ The Chirpy theme filters many templates by `"Type" "post"`. Since content lives 
 
 ### Assets
 - `assets/img/commons/rars_logo.png` - Club logo
-- `assets/img/irl.xyz.blog/` - Source favicon files (CC-BY licensed from irl.xyz)
 
 ### Static Files
-- `static/favicon.ico` - Site favicon (ham radio tower icon)
+- `static/favicon.ico` - Site favicon (N4UH club logo)
 - `static/apple-touch-icon.png` - iOS icon
 - `static/img/favicons/` - Full favicon set with manifest
 
@@ -135,6 +134,5 @@ See `todo.md` for current items:
 ## Notes
 
 - Broadcastify feed only streams the 2m repeater (145.410 MHz), not the 70cm repeater
-- Favicon icons are CC-BY licensed from [irl.xyz](https://irl.xyz/blog/2021/2021w127/) - attribution in About page
 - Internal links use `/pages/` for static pages and `/events/` for event pages
 - `.claude/` is in `.gitignore` — local Claude Code settings are not committed
