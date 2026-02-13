@@ -38,7 +38,7 @@ RARS maintains two repeaters under the N4UH call sign:
 
 ## Contact
 
-- **Email:** [rustyutahn@yahoo.com](mailto:rustyutahn@yahoo.com)
+- **Reach Us:** [Contact Form](/pages/contact/)
 - **Phone:** (704) 433-7371
 
 Visitors are always welcome at our meetings!

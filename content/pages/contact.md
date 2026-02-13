@@ -15,8 +15,6 @@ menu:
 
 You can reach the Rowan Amateur Radio Society by:
 
-**Email:** [rustyutahn@yahoo.com](mailto:rustyutahn@yahoo.com)
-
 **Phone:** (704) 433-7371
 
 **Meeting Location:**

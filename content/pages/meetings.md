@@ -37,4 +37,4 @@ Visitors are always welcome! Whether you're a licensed ham or just curious about
 
 ## Contact
 
-For questions about meetings, contact us at [rustyutahn@yahoo.com](mailto:rustyutahn@yahoo.com) or call (704) 433-7371.
+For questions about meetings, [contact us](/pages/contact/) or call (704) 433-7371.

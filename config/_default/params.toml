@@ -43,8 +43,8 @@ author = "ai2f"
   url = "https://www.rowanars.net"
 
 [[social.links]]
-  type = "email"
-  id = "rustyutahn@yahoo.com"
+  type = "link"
+  id = "/pages/contact/"
   icon = "fas fa-envelope"
 
 [[social.links]]

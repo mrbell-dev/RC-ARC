@@ -38,14 +38,23 @@ You can apply online using the form below, or [download the membership applicati
   <input type="text" name="Callsign" class="form-control" pattern="[A-Za-z]{1,2}[0-9][A-Za-z]{1,3}" title="Enter a valid amateur radio call sign (e.g., W4ABC, KJ4XYZ)" placeholder="e.g., W4ABC">
 </div>
 
-<div class="mb-3">
-  <label class="form-label">License Class:</label>
-  <select name="License Class" class="form-select">
-    <option value="Not Licensed">Not Licensed (Yet!)</option>
-    <option value="Technician">Technician</option>
-    <option value="General">General</option>
-    <option value="Amateur Extra">Amateur Extra</option>
-  </select>
+<div class="row">
+  <div class="col-md-6 mb-3">
+    <label class="form-label">License Class:</label>
+    <select name="License Class" class="form-select">
+      <option value="Not Licensed">Not Licensed (Yet!)</option>
+      <option value="Technician">Technician</option>
+      <option value="General">General</option>
+      <option value="Amateur Extra">Amateur Extra</option>
+    </select>
+  </div>
+  <div class="col-md-6 mb-3">
+    <label class="form-label">ARRL Member?</label>
+    <select name="ARRL Member" class="form-select">
+      <option value="No">No</option>
+      <option value="Yes">Yes</option>
+    </select>
+  </div>
 </div>
 
 <div class="mb-3">
@@ -55,13 +64,24 @@ You can apply online using the form below, or [download the membership applicati
 </div>
 
 <div class="mb-3">
-  <label class="form-label">Phone Number:</label>
-  <input type="tel" name="Phone" class="form-control" placeholder="(xxx) xxx-xxxx">
+  <label class="form-label">Street Address:</label>
+  <input type="text" name="Street Address" class="form-control" placeholder="123 Main St">
 </div>
 
 <div class="mb-3">
-  <label class="form-label">Mailing Address:</label>
-  <textarea name="Address" rows="3" class="form-control" placeholder="Street Address&#10;City, State ZIP"></textarea>
+  <label class="form-label">City, State, Zip:</label>
+  <input type="text" name="City State Zip" class="form-control" placeholder="Salisbury, NC 28144">
+</div>
+
+<div class="row">
+  <div class="col-md-6 mb-3">
+    <label class="form-label">Home Phone:</label>
+    <input type="tel" name="Home Phone" class="form-control" placeholder="(xxx) xxx-xxxx">
+  </div>
+  <div class="col-md-6 mb-3">
+    <label class="form-label">Cell Phone:</label>
+    <input type="tel" name="Cell Phone" class="form-control" placeholder="(xxx) xxx-xxxx">
+  </div>
 </div>
 
 ---
@@ -69,37 +89,35 @@ You can apply online using the form below, or [download the membership applicati
 ### About You and Ham Radio
 
 <div class="mb-3">
-  <label class="form-label">What do you want to do with ham radio? <span class="text-danger">*</span></label>
-  <textarea name="Goals" rows="4" required class="form-control" placeholder="Tell us about your interests and goals in amateur radio..."></textarea>
-  <div class="form-text">Examples: emergency communications, contesting, DXing, digital modes, satellite ops, etc.</div>
-</div>
-
-<div class="mb-3">
-  <label class="form-label">What are you currently doing with ham radio?</label>
-  <textarea name="Current Activities" rows="4" class="form-control" placeholder="What activities are you involved in now?"></textarea>
+  <label class="form-label">Please write a short history of your Amateur Radio life: <span class="text-danger">*</span></label>
+  <textarea name="Radio History" rows="4" required class="form-control" placeholder="How it began, when first licensed, events since that time, present equipment, etc."></textarea>
   <div class="form-text">It's okay if you're just getting started!</div>
 </div>
 
 <div class="mb-3">
-  <label class="form-label">What are your favorite things to do in ham radio?</label>
-  <textarea name="Favorites" rows="4" class="form-control" placeholder="What aspects of the hobby do you enjoy most?"></textarea>
+  <label class="form-label">Describe your general operating habits:</label>
+  <textarea name="Operating Habits" rows="4" class="form-control" placeholder="Favorite bands, modes, time of day, hours/week, etc."></textarea>
 </div>
 
 <div class="mb-3">
-  <label class="form-label">What equipment do you plan on using in case of emergency?</label>
-  <textarea name="Emergency Equipment" rows="4" class="form-control" placeholder="Describe your emergency communication capabilities and equipment..."></textarea>
-  <div class="form-text">Examples: HT, mobile rig, base station, portable antennas, power backup, etc.</div>
+  <label class="form-label">What frequencies/modes, other than those listed above, are you able to use?</label>
+  <textarea name="Frequencies and Modes" rows="3" class="form-control" placeholder="Other frequencies and modes you are able to operate on..."></textarea>
 </div>
 
 <div class="mb-3">
-  <label class="form-label">Any plans on joining NC ARES (Amateur Radio Emergency Service)?</label>
-  <select name="ARES Interest" class="form-select">
-    <option value="Not Sure">Not Sure / Need More Info</option>
-    <option value="Yes">Yes, I'm interested</option>
-    <option value="Already Member">Already a member</option>
-    <option value="No">Not at this time</option>
-  </select>
-  <div class="form-text">Learn more about <a href="https://www.arrl.org/ares" target="_blank">ARES</a></div>
+  <label class="form-label">What are your capabilities/limitations in case you were called on for an emergency operation?</label>
+  <textarea name="Emergency Capabilities" rows="4" class="form-control" placeholder="Describe your emergency communication capabilities, equipment, and any limitations..."></textarea>
+  <div class="form-text">Examples: HT, mobile rig, base station, portable antennas, power backup, availability, etc.</div>
+</div>
+
+<div class="mb-3">
+  <label class="form-label">Name three goals you have in Amateur Radio:</label>
+  <textarea name="Goals" rows="3" class="form-control" placeholder="What are your amateur radio goals?"></textarea>
+</div>
+
+<div class="mb-3">
+  <label class="form-label">List, in order of enjoyment, three Amateur Radio activities you would like to do in the next six months:</label>
+  <textarea name="Planned Activities" rows="3" class="form-control" placeholder="What activities are you looking forward to?"></textarea>
 </div>
 
 ---

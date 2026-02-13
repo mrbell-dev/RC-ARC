@@ -51,7 +51,7 @@ License exams will be available on Saturday at 10:00 AM. Bring a valid photo ID 
 For vendor reservations, table availability, or questions, contact:
 
 **Ralph Mowery, KU4PT** -- Hamfest Chairman
-- **Email:** [rmowery42@charter.net](mailto:rmowery42@charter.net)
+- **Reach Us:** [Contact Form](/pages/contact/)
 - **Phone:** (704) 279-4737
 
 See you there!
