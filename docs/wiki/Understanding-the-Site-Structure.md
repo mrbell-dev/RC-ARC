@@ -28,7 +28,7 @@ RC-ARC/
 │   │   └── ...
 │   ├── events/           # Event pages
 │   │   ├── field-day.md
-│   │   └── firecracker-hamfest.md
+│   │   └── firecracker-hamfest-2026.md
 │   └── posts/            # News and announcements
 ├── layouts/              # Custom layout overrides
 ├── config/               # Site configuration
@@ -66,12 +66,14 @@ pages/
 ├── activities.md         # /pages/activities/
 ├── ares-net.md           # /pages/ares-net/
 ├── contact.md            # /pages/contact/
+├── elmer.md              # /pages/elmer/
 ├── join-us.md            # /pages/join-us/
 ├── links.md              # /pages/links/
 ├── live-feed.md          # /pages/live-feed/
 ├── local-repeaters.md    # /pages/local-repeaters/
 ├── meetings.md           # /pages/meetings/
 ├── membership.md         # /pages/membership/
+├── nets.md               # /pages/nets/
 ├── privacy-policy.md     # /pages/privacy-policy/
 ├── repeaters.md          # /pages/repeaters/
 └── silent-keys.md        # /pages/silent-keys/
@@ -83,8 +85,8 @@ Event pages that appear on the Activities page:
 
 ```
 events/
-├── field-day.md              # Recurring event (tag: event-general)
-└── firecracker-hamfest.md    # Dated event (tag: event-cal)
+├── field-day.md                  # Recurring event (tag: event-general)
+└── firecracker-hamfest-2026.md   # Dated event (tag: event-cal)
 ```
 
 ### The `posts/` Folder
@@ -93,7 +95,7 @@ News and announcements go here. Each post is a single `.md` file:
 
 ```
 posts/
-└── my-announcement.md    # /posts/my-announcement/
+└── discord-quick-start-guide.md    # /posts/discord-quick-start-guide/
 ```
 
 ## Content File Anatomy

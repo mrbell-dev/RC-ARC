@@ -15,7 +15,7 @@ This is the website for the **Rowan Amateur Radio Society (RARS)**, a ham radio 
   - 2m: 145.410 MHz, -0.600 offset, 136.5 PL
   - 70cm: 443.250 MHz, +5.000 offset, 136.5 PL
 - **Officers:** David Jackman N7WOY (Pres), Michael Zinicola WD4PVS (VP), Doug Bowers KR4HIL (Sec), James "Jim" Russell KR4FHI (Treas)
-- **Contact:** rustyutahn@yahoo.com, (704) 433-7371
+- **Contact:** (704) 433-7371, [Contact Form](https://www.rowanars.net/pages/contact/)
 - **Website:** www.rowanars.net
 
 ## Build and Run Commands
@@ -43,24 +43,26 @@ content/
 ├── pages/                    # Static informational pages
 │   ├── about.md
 │   ├── activities.md         # Google Calendar + event listings (custom layout)
-│   ├── links.md
-│   ├── contact.md            # Contact form (SheetMonkey)
-│   ├── membership.md         # Membership application form
-│   ├── meetings.md
-│   ├── repeaters.md          # Links to local-repeaters.md
-│   ├── local-repeaters.md    # Not in sidebar nav, linked from repeaters
-│   ├── join-us.md
-│   ├── live-feed.md          # Broadcastify embed (2m only)
 │   ├── ares-net.md
+│   ├── contact.md            # Contact form (SheetMonkey)
+│   ├── elmer.md              # Elmer program info + request form
+│   ├── join-us.md
+│   ├── links.md
+│   ├── live-feed.md          # Broadcastify embed (2m only)
+│   ├── local-repeaters.md    # Not in sidebar nav, linked from repeaters
+│   ├── meetings.md
+│   ├── membership.md         # Membership application form
+│   ├── nets.md               # Local nets schedule, linked from repeaters
 │   ├── privacy-policy.md
+│   ├── repeaters.md          # Links to local-repeaters.md and nets.md
 │   └── silent-keys.md
 │
 ├── events/                   # Event pages
-│   ├── field-day.md          # tag: event-general (recurring)
-│   └── firecracker-hamfest.md # tag: event-cal (dated, has event_date)
+│   ├── field-day.md              # tag: event-general (recurring)
+│   └── firecracker-hamfest-2026.md # tag: event-cal (dated, has event_date)
 │
 └── posts/                    # News/announcements (date-based)
-    └── (empty, ready for future posts)
+    └── discord-quick-start-guide.md
 ```
 
 ### File Naming
@@ -93,6 +95,7 @@ The Chirpy theme filters many templates by `"Type" "post"`. Since content lives 
 - `static/favicon.ico` - Site favicon (N4UH club logo)
 - `static/apple-touch-icon.png` - iOS icon
 - `static/img/favicons/` - Full favicon set with manifest
+- `static/RARS-Membership-Application.pdf` - Downloadable membership application
 
 ### Config
 - `config/_default/hugo.toml` - Site settings
@@ -113,11 +116,14 @@ Three pages have `pin: true`: Join Us, Repeaters, Meetings.
 
 ## Forms
 
-Both contact and membership forms use SheetMonkey for backend:
+Three forms use SheetMonkey for backend, all posting to a master Google Sheet:
 - Contact form: `content/pages/contact.md`
 - Membership form: `content/pages/membership.md`
+- Elmer request form: `content/pages/elmer.md`
 
-Forms include JavaScript validation for email fields.
+Forms include JavaScript validation for email fields. A Google Apps Script (`dev/scripts/form-automation.gs`) routes submissions to separate spreadsheets, sends email notifications based on each sheet's "Email" tab, and generates a filled PDF for membership applications. See `dev/scripts/form-automation-setup.md` for setup instructions.
+
+Email addresses are not displayed on the site to prevent scraping. All contact links point to the contact form page.
 
 ## SEO
 

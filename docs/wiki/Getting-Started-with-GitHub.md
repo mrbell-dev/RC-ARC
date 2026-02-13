@@ -33,15 +33,17 @@ When you visit the repository page, you'll see:
 ```
 RC-ARC/
 ├── content/              # Website content lives here
-│   ├── _index.en.md      # Home page
-│   ├── about/            # About page folder
-│   ├── activities/       # Activities page folder
-│   ├── links/            # Links page folder
-│   └── post/             # All posts/articles
-│       ├── meetings/
-│       ├── repeaters/
-│       ├── field-day/
-│       └── (other posts...)
+│   ├── _index.md         # Home page
+│   ├── pages/            # Static informational pages
+│   │   ├── about.md
+│   │   ├── meetings.md
+│   │   ├── contact.md
+│   │   └── ...
+│   ├── events/           # Event pages
+│   │   ├── field-day.md
+│   │   └── ...
+│   └── posts/            # News and announcements
+│       └── ...
 ├── config/               # Site settings
 ├── assets/               # Images and resources
 │   └── img/
