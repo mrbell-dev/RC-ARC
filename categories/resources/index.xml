@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Resources on Rowan Amateur Radio Society</title><link>https://www.rowanars.net/categories/resources/</link><description>Recent content in Resources on Rowan Amateur Radio Society</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 09 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.rowanars.net/categories/resources/index.xml" rel="self" type="application/rss+xml"/><item><title>Discord Quick Start Guide</title><link>https://www.rowanars.net/posts/discord-quick-start-guide/</link><pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate><guid>https://www.rowanars.net/posts/discord-quick-start-guide/</guid><description>&lt;h2 id="discord-quick-start-guide" id=discord-quick-start-guide&gt;
+ 
+ &lt;span class="me-2"&gt;Discord Quick Start Guide&lt;/span&gt;
+ &lt;a href="#discord-quick-start-guide" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;p&gt;New to Discord? This quick start guide covers everything you need to know to get up and running. Discord is a free communication platform used by many amateur radio communities for text, voice, and video chat.&lt;/p&gt;
+&lt;h2 id="what-is-discord" id=what-is-discord&gt;
+ 
+ &lt;span class="me-2"&gt;What is Discord?&lt;/span&gt;
+ &lt;a href="#what-is-discord" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;p&gt;Discord is a communication platform that lets you interact through text, voice, and video. It works on desktop (Windows, Mac, Linux), mobile (iOS, Android), and in your web browser at &lt;a href="https://discord.com"&gt;discord.com&lt;/a&gt;. Think of it as a mix between group chat and a forum, but in real time.&lt;/p&gt;</description></item><item><title>Local Nets</title><link>https://www.rowanars.net/pages/nets/</link><pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate><guid>https://www.rowanars.net/pages/nets/</guid><description>&lt;h2 id="local-nets" id=local-nets&gt;
+ 
+ &lt;span class="me-2"&gt;Local Nets&lt;/span&gt;
+ &lt;a href="#local-nets" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;p&gt;A guide to amateur radio nets in and around Rowan County, NC. VHF/UHF nets listed are within approximately 30 miles of Salisbury. 10 meter and HF nets with broader reach are listed separately.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Always verify frequencies and schedules before checking in. Nets may change without notice.&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="rowan-county" id=rowan-county&gt;
+ 
+ &lt;span class="me-2"&gt;Rowan County&lt;/span&gt;
+ &lt;a href="#rowan-county" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Net Name&lt;/th&gt;
+ &lt;th&gt;Frequency&lt;/th&gt;
+ &lt;th&gt;Day&lt;/th&gt;
+ &lt;th&gt;Time&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Rowan County ARES Training Net&lt;/td&gt;
+ &lt;td&gt;145.410 MHz -0.600 (136.5 PL)&lt;/td&gt;
+ &lt;td&gt;Wednesday&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="cabarrus-county" id=cabarrus-county&gt;
+ 
+ &lt;span class="me-2"&gt;Cabarrus County&lt;/span&gt;
+ &lt;a href="#cabarrus-county" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Net Name&lt;/th&gt;
+ &lt;th&gt;Frequency&lt;/th&gt;
+ &lt;th&gt;Day&lt;/th&gt;
+ &lt;th&gt;Time&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Cabarrus ARES Net&lt;/td&gt;
+ &lt;td&gt;147.300 MHz +0.600 (136.5 PL)&lt;/td&gt;
+ &lt;td&gt;Tuesday&lt;/td&gt;
+ &lt;td&gt;8:30 PM&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Ragchew&lt;/td&gt;
+ &lt;td&gt;147.300 MHz +0.600&lt;/td&gt;
+ &lt;td&gt;Tuesday&lt;/td&gt;
+ &lt;td&gt;9:00 PM&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="davidson-county" id=davidson-county&gt;
+ 
+ &lt;span class="me-2"&gt;Davidson County&lt;/span&gt;
+ &lt;a href="#davidson-county" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Net Name&lt;/th&gt;
+ &lt;th&gt;Frequency&lt;/th&gt;
+ &lt;th&gt;Day&lt;/th&gt;
+ &lt;th&gt;Time&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Davidson County ARES Net&lt;/td&gt;
+ &lt;td&gt;146.910 MHz -0.600 (107.2 PL)&lt;/td&gt;
+ &lt;td&gt;Tuesday&lt;/td&gt;
+ &lt;td&gt;9:00 PM&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="mecklenburg-county" id=mecklenburg-county&gt;
+ 
+ &lt;span class="me-2"&gt;Mecklenburg County&lt;/span&gt;
+ &lt;a href="#mecklenburg-county" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Net Name&lt;/th&gt;
+ &lt;th&gt;Frequency&lt;/th&gt;
+ &lt;th&gt;Day&lt;/th&gt;
+ &lt;th&gt;Time&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Mecklenburg ARES Net&lt;/td&gt;
+ &lt;td&gt;146.940 MHz -0.600 (118.8 PL)&lt;/td&gt;
+ &lt;td&gt;Wednesday&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Mecklenburg ARES Net (Alt)&lt;/td&gt;
+ &lt;td&gt;145.290 MHz -0.600 (118.8 PL)&lt;/td&gt;
+ &lt;td&gt;Wednesday&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Mecklenburg ARES Net (Alt)&lt;/td&gt;
+ &lt;td&gt;146.580 MHz simplex&lt;/td&gt;
+ &lt;td&gt;Wednesday&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Metrolina Two-Meter Emergency Net&lt;/td&gt;
+ &lt;td&gt;146.940 MHz -0.600 (118.8 PL)&lt;/td&gt;
+ &lt;td&gt;Daily&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Charlotte (CLT) SKYWARN Net&lt;/td&gt;
+ &lt;td&gt;145.350 MHz -0.600&lt;/td&gt;
+ &lt;td&gt;As needed&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Carolina Amateur Radio Net&lt;/td&gt;
+ &lt;td&gt;145.350 MHz -0.600 (82.5 PL)&lt;/td&gt;
+ &lt;td&gt;Tuesday&lt;/td&gt;
+ &lt;td&gt;8:30 PM&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Piedmont Emergency Training Net&lt;/td&gt;
+ &lt;td&gt;145.350 MHz -0.600&lt;/td&gt;
+ &lt;td&gt;Daily&lt;/td&gt;
+ &lt;td&gt;8:00 PM&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Gaston Spotter Net&lt;/td&gt;
+ &lt;td&gt;145.350 MHz -0.600 (82.5 PL)&lt;/td&gt;
+ &lt;td&gt;Tuesday&lt;/td&gt;
+ &lt;td&gt;7:30 PM&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="surrounding-area" id=surrounding-area&gt;
+ 
+ &lt;span class="me-2"&gt;Surrounding Area&lt;/span&gt;
+ &lt;a href="#surrounding-area" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Net Name&lt;/th&gt;
+ &lt;th&gt;Frequency&lt;/th&gt;
+ &lt;th&gt;County&lt;/th&gt;
+ &lt;th&gt;Day&lt;/th&gt;
+ &lt;th&gt;Time&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Montgomery Amateur Radio Society&lt;/td&gt;
+ &lt;td&gt;147.090 MHz +0.600 (100.0 PL)&lt;/td&gt;
+ &lt;td&gt;Montgomery&lt;/td&gt;
+ &lt;td&gt;Monday&lt;/td&gt;
+ &lt;td&gt;8:30 PM&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Forsyth County ARES Net&lt;/td&gt;
+ &lt;td&gt;145.470 MHz -0.600 (100.0 PL)&lt;/td&gt;
+ &lt;td&gt;Forsyth&lt;/td&gt;
+ &lt;td&gt;Wednesday&lt;/td&gt;
+ &lt;td&gt;8:30 PM&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Lincoln Co RACES/ARES&lt;/td&gt;
+ &lt;td&gt;147.015 MHz +0.600 / 442.350 MHz +5.000&lt;/td&gt;
+ &lt;td&gt;Lincoln&lt;/td&gt;
+ &lt;td&gt;Tuesday&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Rockingham County ARES Net&lt;/td&gt;
+ &lt;td&gt;147.030 MHz +0.600&lt;/td&gt;
+ &lt;td&gt;Rockingham&lt;/td&gt;
+ &lt;td&gt;Tuesday&lt;/td&gt;
+ &lt;td&gt;9:00 PM&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Cleveland County ARS 2m Simplex Training Net&lt;/td&gt;
+ &lt;td&gt;147.505 MHz simplex&lt;/td&gt;
+ &lt;td&gt;Cleveland&lt;/td&gt;
+ &lt;td&gt;Monday&lt;/td&gt;
+ &lt;td&gt;9:00 PM&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="regional-traffic-nets" id=regional-traffic-nets&gt;
+ 
+ &lt;span class="me-2"&gt;Regional Traffic Nets&lt;/span&gt;
+ &lt;a href="#regional-traffic-nets" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Net Name&lt;/th&gt;
+ &lt;th&gt;Frequency&lt;/th&gt;
+ &lt;th&gt;Day&lt;/th&gt;
+ &lt;th&gt;Time&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Central Western Traffic Net&lt;/td&gt;
+ &lt;td&gt;145.250 MHz -0.600 (88.5 PL)&lt;/td&gt;
+ &lt;td&gt;Daily&lt;/td&gt;
+ &lt;td&gt;7:00 PM&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;Piedmont Coastal Traffic Net&lt;/td&gt;
+ &lt;td&gt;146.880 MHz -0.600&lt;/td&gt;
+ &lt;td&gt;Daily&lt;/td&gt;
+ &lt;td&gt;9:00 PM&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="10-meter-and-hf-nets" id=10-meter-and-hf-nets&gt;
+ 
+ &lt;span class="me-2"&gt;10 Meter and HF Nets&lt;/span&gt;
+ &lt;a href="#10-meter-and-hf-nets" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;p&gt;These nets have a broader reach and can often be accessed from Rowan County on HF.&lt;/p&gt;</description></item><item><title>What is an Elmer?</title><link>https://www.rowanars.net/pages/elmer/</link><pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate><guid>https://www.rowanars.net/pages/elmer/</guid><description>&lt;h2 id="what-is-an-elmer" id=what-is-an-elmer&gt;
+ 
+ &lt;span class="me-2"&gt;What is an Elmer?&lt;/span&gt;
+ &lt;a href="#what-is-an-elmer" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;p&gt;An &amp;ldquo;Elmer&amp;rdquo; in ham radio is an experienced, often volunteer mentor who provides personalized guidance, technical knowledge, and encouragement to newcomers or those looking to advance their skills. Coined in 1971 by Rod Newkirk to honor his own mentor, the term is unique to amateur radio and signifies the supportive, peer-to-peer education that is crucial for navigating the hobby.&lt;/p&gt;
+&lt;h2 id="key-aspects-of-an-elmer" id=key-aspects-of-an-elmer&gt;
+ 
+ &lt;span class="me-2"&gt;Key Aspects of an Elmer&lt;/span&gt;
+ &lt;a href="#key-aspects-of-an-elmer" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Role:&lt;/strong&gt; Mentors, tutors, and guides new operators, often helping them earn their license and set up their first station.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Origin:&lt;/strong&gt; Coined in the March 1971 &amp;ldquo;How&amp;rsquo;s DX&amp;rdquo; column of QST magazine by Rod Newkirk (W9BRD), referring to his mentor, Elmer P. Frohardt Jr.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Context:&lt;/strong&gt; Used as both a noun (the person) and a verb (&amp;ldquo;Elmering&amp;rdquo; someone).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Finding One:&lt;/strong&gt; Often found through local amateur radio clubs like RARS.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; Provides hands-on assistance with radio operations, technical skills, and navigating the nuances of the hobby.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="need-an-elmer" id=need-an-elmer&gt;
+ 
+ &lt;span class="me-2"&gt;Need an Elmer?&lt;/span&gt;
+ &lt;a href="#need-an-elmer" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;p&gt;The Rowan Amateur Radio Society has experienced operators who are happy to help newcomers get started. Whether you need help studying for your license, setting up your first radio, or figuring out antennas, we&amp;rsquo;re here to help.&lt;/p&gt;</description></item><item><title>Helpful Links</title><link>https://www.rowanars.net/pages/links/</link><pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate><guid>https://www.rowanars.net/pages/links/</guid><description>&lt;h2 id="helpful-links" id=helpful-links&gt;
+ 
+ &lt;span class="me-2"&gt;Helpful Links&lt;/span&gt;
+ &lt;a href="#helpful-links" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;p&gt;A collection of useful resources for amateur radio operators, from our club pages to licensing information, equipment retailers, and more.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="rars-resources" id=rars-resources&gt;
+ 
+ &lt;span class="me-2"&gt;RARS Resources&lt;/span&gt;
+ &lt;a href="#rars-resources" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.arrl.org/Groups/view/rowan-ars"&gt;RARS on ARRL&lt;/a&gt; - Our club listing on the ARRL website&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.broadcastify.com/listen/feed/45210"&gt;N4UH Broadcastify Feed&lt;/a&gt; - Listen to the N4UH repeater online&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="licensing--testing" id=licensing--testing&gt;
+ 
+ &lt;span class="me-2"&gt;Licensing &amp;amp; Testing&lt;/span&gt;
+ &lt;a href="#licensing--testing" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;h3 id="study-resources" id=study-resources&gt;
+ 
+ &lt;span class="me-2"&gt;Study Resources&lt;/span&gt;
+ &lt;a href="#study-resources" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://hamstudy.org/"&gt;HamStudy.org&lt;/a&gt; - Free online study materials and practice exams&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.arrl.org/exam_sessions/search"&gt;ARRL Exam Session Search&lt;/a&gt; - Find a license exam near you&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.arrl.org/getting-licensed"&gt;ARRL Getting Licensed&lt;/a&gt; - Official guide to getting your ham license&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="license-lookup" id=license-lookup&gt;
+ 
+ &lt;span class="me-2"&gt;License Lookup&lt;/span&gt;
+ &lt;a href="#license-lookup" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://wireless2.fcc.gov/UlsApp/UlsSearch/searchLicense.jsp"&gt;FCC License Search (ULS)&lt;/a&gt; - Look up any amateur radio license in the FCC database&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="nearby-ve-testing-sessions" id=nearby-ve-testing-sessions&gt;
+ 
+ &lt;span class="me-2"&gt;Nearby VE Testing Sessions&lt;/span&gt;
+ &lt;a href="#nearby-ve-testing-sessions" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://w4bfb.org/mars-info/charlotte-testing/"&gt;Mecklenburg ARS (Charlotte)&lt;/a&gt; - Charlotte area testing&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://k4rnc.org/ve-testing-schedule/"&gt;Richmond County ARC&lt;/a&gt; - Rockingham area testing&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://fivecountyhre.org/study-tips-and-registration/"&gt;Five County Ham Radio Enthusiasts&lt;/a&gt; - Raleigh/Fuquay-Varina area&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="equipment-retailers" id=equipment-retailers&gt;
+ 
+ &lt;span class="me-2"&gt;Equipment Retailers&lt;/span&gt;
+ &lt;a href="#equipment-retailers" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;h3 id="major-online-retailers" id=major-online-retailers&gt;
+ 
+ &lt;span class="me-2"&gt;Major Online Retailers&lt;/span&gt;
+ &lt;a href="#major-online-retailers" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.hamradio.com/"&gt;Ham Radio Outlet (HRO)&lt;/a&gt; - World&amp;rsquo;s largest ham radio supplier with stores nationwide&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.dxengineering.com/"&gt;DX Engineering&lt;/a&gt; - Quality equipment, antennas, and accessories&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.gigaparts.com/"&gt;GigaParts&lt;/a&gt; - Amateur radio, computers, and electronics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="used-equipment" id=used-equipment&gt;
+ 
+ &lt;span class="me-2"&gt;Used Equipment&lt;/span&gt;
+ &lt;a href="#used-equipment" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://swap.qrz.com/"&gt;QRZ Swapmeet&lt;/a&gt; - Buy/sell used ham radio equipment&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.eham.net/classifieds"&gt;eHam Classifieds&lt;/a&gt; - Used equipment listings&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="organizations" id=organizations&gt;
+ 
+ &lt;span class="me-2"&gt;Organizations&lt;/span&gt;
+ &lt;a href="#organizations" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.arrl.org/"&gt;ARRL&lt;/a&gt; - American Radio Relay League (National Association for Amateur Radio)&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.arrl.org/ares"&gt;ARES&lt;/a&gt; - Amateur Radio Emergency Service&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.weather.gov/skywarn/"&gt;SKYWARN&lt;/a&gt; - NWS severe weather spotter program&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="technical-resources" id=technical-resources&gt;
+ 
+ &lt;span class="me-2"&gt;Technical Resources&lt;/span&gt;
+ &lt;a href="#technical-resources" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.qrz.com/"&gt;QRZ.com&lt;/a&gt; - Callsign lookup and ham radio community&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.repeaterbook.com/"&gt;RepeaterBook&lt;/a&gt; - Repeater directory for North America&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://aprs.fi/"&gt;APRS.fi&lt;/a&gt; - APRS tracking and mapping&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pskreporter.info/"&gt;PSK Reporter&lt;/a&gt; - Digital mode propagation reporting&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://dxsummit.fi/"&gt;DX Summit&lt;/a&gt; - DX cluster spots&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.fcc.gov/wireless/bureau-divisions/mobility-division/general-mobile-radio-service-gmrs"&gt;GMRS (FCC)&lt;/a&gt; - General Mobile Radio Service information&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ncmesh.net/"&gt;NCMesh&lt;/a&gt; - North Carolina mesh networking community&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="propagation--conditions" id=propagation--conditions&gt;
+ 
+ &lt;span class="me-2"&gt;Propagation &amp;amp; Conditions&lt;/span&gt;
+ &lt;a href="#propagation--conditions" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.swpc.noaa.gov/"&gt;NOAA Space Weather&lt;/a&gt; - Solar and geomagnetic conditions&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.voacap.com/"&gt;HF Propagation&lt;/a&gt; - HF propagation prediction&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://dxheat.com/dxc/"&gt;DX Heat Map&lt;/a&gt; - Real-time DX activity&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="discord-communities" id=discord-communities&gt;
+ 
+ &lt;span class="me-2"&gt;Discord Communities&lt;/span&gt;
+ &lt;a href="#discord-communities" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://discord.gg/BQHuFbUG3P"&gt;OARC - Online Amateur Radio Community&lt;/a&gt; - Large online ham radio community&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://canary.discord.com/invite/5Jrvazgm"&gt;HHRC - Ham Radio Crash Course&lt;/a&gt; - Ham Radio Crash Course Discord server&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://discord.com/invite/S5ngBG5A2w"&gt;The HamShack&lt;/a&gt; - General ham radio discussion server&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Find more ham radio Discord servers at &lt;a href="https://disboard.org/servers/tag/ham-radio"&gt;Disboard&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Local Repeaters</title><link>https://www.rowanars.net/pages/local-repeaters/</link><pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate><guid>https://www.rowanars.net/pages/local-repeaters/</guid><description>&lt;h2 id="local-repeaters" id=local-repeaters&gt;
+ 
+ &lt;span class="me-2"&gt;Local Repeaters&lt;/span&gt;
+ &lt;a href="#local-repeaters" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;p&gt;A quick reference guide to amateur radio repeaters in and around Rowan County, NC. This list includes repeaters within approximately 30 miles of Salisbury.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Data sourced from &lt;a href="https://www.repeaterbook.com/"&gt;RepeaterBook&lt;/a&gt;. Always verify frequencies before use.&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="rowan-county" id=rowan-county&gt;
+ 
+ &lt;span class="me-2"&gt;Rowan County&lt;/span&gt;
+ &lt;a href="#rowan-county" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;h3 id="n4uh---rowan-amateur-radio-society-salisbury" id=n4uh---rowan-amateur-radio-society-salisbury&gt;
+ 
+ &lt;span class="me-2"&gt;N4UH - Rowan Amateur Radio Society (Salisbury)&lt;/span&gt;
+ &lt;a href="#n4uh---rowan-amateur-radio-society-salisbury" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h3&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Band&lt;/th&gt;
+ &lt;th&gt;Frequency&lt;/th&gt;
+ &lt;th&gt;Offset&lt;/th&gt;
+ &lt;th&gt;Tone&lt;/th&gt;
+ &lt;th&gt;Notes&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;2m&lt;/td&gt;
+ &lt;td&gt;145.410 MHz&lt;/td&gt;
+ &lt;td&gt;-0.600&lt;/td&gt;
+ &lt;td&gt;136.5 PL&lt;/td&gt;
+ &lt;td&gt;Primary club repeater&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;70cm&lt;/td&gt;
+ &lt;td&gt;443.250 MHz&lt;/td&gt;
+ &lt;td&gt;+5.000&lt;/td&gt;
+ &lt;td&gt;136.5 PL&lt;/td&gt;
+ &lt;td&gt;Secondary repeater&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="cabarrus-county" id=cabarrus-county&gt;
+ 
+ &lt;span class="me-2"&gt;Cabarrus County&lt;/span&gt;
+ &lt;a href="#cabarrus-county" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;h3 id="w4bfb---mecklenburg-ars-concord-area" id=w4bfb---mecklenburg-ars-concord-area&gt;
+ 
+ &lt;span class="me-2"&gt;W4BFB - Mecklenburg ARS (Concord Area)&lt;/span&gt;
+ &lt;a href="#w4bfb---mecklenburg-ars-concord-area" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h3&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Band&lt;/th&gt;
+ &lt;th&gt;Frequency&lt;/th&gt;
+ &lt;th&gt;Offset&lt;/th&gt;
+ &lt;th&gt;Tone&lt;/th&gt;
+ &lt;th&gt;Notes&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;2m&lt;/td&gt;
+ &lt;td&gt;146.940 MHz&lt;/td&gt;
+ &lt;td&gt;-0.600&lt;/td&gt;
+ &lt;td&gt;100.0 PL&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id="n4csi-concord" id=n4csi-concord&gt;
+ 
+ &lt;span class="me-2"&gt;N4CSI (Concord)&lt;/span&gt;
+ &lt;a href="#n4csi-concord" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h3&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Band&lt;/th&gt;
+ &lt;th&gt;Frequency&lt;/th&gt;
+ &lt;th&gt;Offset&lt;/th&gt;
+ &lt;th&gt;Tone&lt;/th&gt;
+ &lt;th&gt;Notes&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;2m&lt;/td&gt;
+ &lt;td&gt;147.315 MHz&lt;/td&gt;
+ &lt;td&gt;+0.600&lt;/td&gt;
+ &lt;td&gt;131.8 PL&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="davidson-county" id=davidson-county&gt;
+ 
+ &lt;span class="me-2"&gt;Davidson County&lt;/span&gt;
+ &lt;a href="#davidson-county" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;h3 id="w4dp-lexington" id=w4dp-lexington&gt;
+ 
+ &lt;span class="me-2"&gt;W4DP (Lexington)&lt;/span&gt;
+ &lt;a href="#w4dp-lexington" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h3&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Band&lt;/th&gt;
+ &lt;th&gt;Frequency&lt;/th&gt;
+ &lt;th&gt;Offset&lt;/th&gt;
+ &lt;th&gt;Tone&lt;/th&gt;
+ &lt;th&gt;Notes&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;2m&lt;/td&gt;
+ &lt;td&gt;146.685 MHz&lt;/td&gt;
+ &lt;td&gt;-0.600&lt;/td&gt;
+ &lt;td&gt;82.5 PL&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;70cm&lt;/td&gt;
+ &lt;td&gt;444.200 MHz&lt;/td&gt;
+ &lt;td&gt;+5.000&lt;/td&gt;
+ &lt;td&gt;82.5 PL&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id="n4ydu-thomasville" id=n4ydu-thomasville&gt;
+ 
+ &lt;span class="me-2"&gt;N4YDU (Thomasville)&lt;/span&gt;
+ &lt;a href="#n4ydu-thomasville" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h3&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Band&lt;/th&gt;
+ &lt;th&gt;Frequency&lt;/th&gt;
+ &lt;th&gt;Offset&lt;/th&gt;
+ &lt;th&gt;Tone&lt;/th&gt;
+ &lt;th&gt;Notes&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;2m&lt;/td&gt;
+ &lt;td&gt;147.390 MHz&lt;/td&gt;
+ &lt;td&gt;+0.600&lt;/td&gt;
+ &lt;td&gt;100.0 PL&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="iredell-county" id=iredell-county&gt;
+ 
+ &lt;span class="me-2"&gt;Iredell County&lt;/span&gt;
+ &lt;a href="#iredell-county" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;h3 id="n4irs-statesville" id=n4irs-statesville&gt;
+ 
+ &lt;span class="me-2"&gt;N4IRS (Statesville)&lt;/span&gt;
+ &lt;a href="#n4irs-statesville" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h3&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Band&lt;/th&gt;
+ &lt;th&gt;Frequency&lt;/th&gt;
+ &lt;th&gt;Offset&lt;/th&gt;
+ &lt;th&gt;Tone&lt;/th&gt;
+ &lt;th&gt;Notes&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;2m&lt;/td&gt;
+ &lt;td&gt;146.760 MHz&lt;/td&gt;
+ &lt;td&gt;-0.600&lt;/td&gt;
+ &lt;td&gt;100.0 PL&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;70cm&lt;/td&gt;
+ &lt;td&gt;444.725 MHz&lt;/td&gt;
+ &lt;td&gt;+5.000&lt;/td&gt;
+ &lt;td&gt;100.0 PL&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id="w4mvb-mooresville" id=w4mvb-mooresville&gt;
+ 
+ &lt;span class="me-2"&gt;W4MVB (Mooresville)&lt;/span&gt;
+ &lt;a href="#w4mvb-mooresville" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h3&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Band&lt;/th&gt;
+ &lt;th&gt;Frequency&lt;/th&gt;
+ &lt;th&gt;Offset&lt;/th&gt;
+ &lt;th&gt;Tone&lt;/th&gt;
+ &lt;th&gt;Notes&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;2m&lt;/td&gt;
+ &lt;td&gt;145.230 MHz&lt;/td&gt;
+ &lt;td&gt;-0.600&lt;/td&gt;
+ &lt;td&gt;100.0 PL&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="stanly-county" id=stanly-county&gt;
+ 
+ &lt;span class="me-2"&gt;Stanly County&lt;/span&gt;
+ &lt;a href="#stanly-county" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;h3 id="w4ua-albemarle" id=w4ua-albemarle&gt;
+ 
+ &lt;span class="me-2"&gt;W4UA (Albemarle)&lt;/span&gt;
+ &lt;a href="#w4ua-albemarle" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h3&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Band&lt;/th&gt;
+ &lt;th&gt;Frequency&lt;/th&gt;
+ &lt;th&gt;Offset&lt;/th&gt;
+ &lt;th&gt;Tone&lt;/th&gt;
+ &lt;th&gt;Notes&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;2m&lt;/td&gt;
+ &lt;td&gt;147.120 MHz&lt;/td&gt;
+ &lt;td&gt;+0.600&lt;/td&gt;
+ &lt;td&gt;91.5 PL&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="mecklenburg-county" id=mecklenburg-county&gt;
+ 
+ &lt;span class="me-2"&gt;Mecklenburg County&lt;/span&gt;
+ &lt;a href="#mecklenburg-county" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;h3 id="w4bfb---mecklenburg-ars-charlotte" id=w4bfb---mecklenburg-ars-charlotte&gt;
+ 
+ &lt;span class="me-2"&gt;W4BFB - Mecklenburg ARS (Charlotte)&lt;/span&gt;
+ &lt;a href="#w4bfb---mecklenburg-ars-charlotte" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h3&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Band&lt;/th&gt;
+ &lt;th&gt;Frequency&lt;/th&gt;
+ &lt;th&gt;Offset&lt;/th&gt;
+ &lt;th&gt;Tone&lt;/th&gt;
+ &lt;th&gt;Notes&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;2m&lt;/td&gt;
+ &lt;td&gt;146.940 MHz&lt;/td&gt;
+ &lt;td&gt;-0.600&lt;/td&gt;
+ &lt;td&gt;100.0 PL&lt;/td&gt;
+ &lt;td&gt;Large coverage area&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;70cm&lt;/td&gt;
+ &lt;td&gt;444.000 MHz&lt;/td&gt;
+ &lt;td&gt;+5.000&lt;/td&gt;
+ &lt;td&gt;100.0 PL&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id="n4nc-charlotte" id=n4nc-charlotte&gt;
+ 
+ &lt;span class="me-2"&gt;N4NC (Charlotte)&lt;/span&gt;
+ &lt;a href="#n4nc-charlotte" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h3&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Band&lt;/th&gt;
+ &lt;th&gt;Frequency&lt;/th&gt;
+ &lt;th&gt;Offset&lt;/th&gt;
+ &lt;th&gt;Tone&lt;/th&gt;
+ &lt;th&gt;Notes&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;2m&lt;/td&gt;
+ &lt;td&gt;145.350 MHz&lt;/td&gt;
+ &lt;td&gt;-0.600&lt;/td&gt;
+ &lt;td&gt;118.8 PL&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="randolph-county" id=randolph-county&gt;
+ 
+ &lt;span class="me-2"&gt;Randolph County&lt;/span&gt;
+ &lt;a href="#randolph-county" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;h3 id="w4rat-asheboro" id=w4rat-asheboro&gt;
+ 
+ &lt;span class="me-2"&gt;W4RAT (Asheboro)&lt;/span&gt;
+ &lt;a href="#w4rat-asheboro" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h3&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Band&lt;/th&gt;
+ &lt;th&gt;Frequency&lt;/th&gt;
+ &lt;th&gt;Offset&lt;/th&gt;
+ &lt;th&gt;Tone&lt;/th&gt;
+ &lt;th&gt;Notes&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;2m&lt;/td&gt;
+ &lt;td&gt;147.255 MHz&lt;/td&gt;
+ &lt;td&gt;+0.600&lt;/td&gt;
+ &lt;td&gt;88.5 PL&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="programming-tips" id=programming-tips&gt;
+ 
+ &lt;span class="me-2"&gt;Programming Tips&lt;/span&gt;
+ &lt;a href="#programming-tips" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Most modern radios can store these as memory channels&lt;/li&gt;
+&lt;li&gt;Always verify the tone (PL/CTCSS) is correct before transmitting&lt;/li&gt;
+&lt;li&gt;Standard offsets: 2m uses +/- 0.600 MHz, 70cm uses +/- 5.000 MHz&lt;/li&gt;
+&lt;li&gt;Negative offset (-) means transmit frequency is lower than receive&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="online-resources" id=online-resources&gt;
+ 
+ &lt;span class="me-2"&gt;Online Resources&lt;/span&gt;
+ &lt;a href="#online-resources" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.repeaterbook.com/repeaters/index.php?state_id=37"&gt;RepeaterBook - North Carolina&lt;/a&gt; - Complete NC repeater database&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.arrl.org/repeater-directory"&gt;ARRL Repeater Directory&lt;/a&gt; - Official ARRL listings&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Know of a repeater that should be listed here? &lt;a href="https://www.rowanars.net/pages/contact/"&gt;Contact us&lt;/a&gt; with the details!&lt;/em&gt;&lt;/p&gt;</description></item></channel></rss>
