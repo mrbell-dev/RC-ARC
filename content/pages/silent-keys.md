@@ -19,13 +19,9 @@ The Rowan Amateur Radio Society remembers and honors our members who have become
 
 ---
 
-*This page will be updated with names, callsigns, and years as information is provided.*
-
-<!-- Format for Silent Key entries:
 | Call Sign | Name | Year |
 |-----------|------|------|
-| W4XXX | John Smith | 2024 |
--->
+| KJ4TGS | Carl Cross | 2026 |
 
 ---
 
