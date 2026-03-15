@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Repeaters on Rowan Amateur Radio Society</title><link>https://www.rowanars.net/tags/repeaters/</link><description>Recent content in Repeaters on Rowan Amateur Radio Society</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 04 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.rowanars.net/tags/repeaters/index.xml" rel="self" type="application/rss+xml"/><item><title>Local Repeaters</title><link>https://www.rowanars.net/pages/local-repeaters/</link><pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate><guid>https://www.rowanars.net/pages/local-repeaters/</guid><description>&lt;h2 id="local-repeaters" id=local-repeaters&gt;
+ 
+ &lt;span class="me-2"&gt;Local Repeaters&lt;/span&gt;
+ &lt;a href="#local-repeaters" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;p&gt;A quick reference guide to amateur radio repeaters in and around Rowan County, NC. This list includes repeaters within approximately 30 miles of Salisbury.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Data sourced from &lt;a href="https://www.repeaterbook.com/"&gt;RepeaterBook&lt;/a&gt;. Always verify frequencies before use.&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="rowan-county" id=rowan-county&gt;
+ 
+ &lt;span class="me-2"&gt;Rowan County&lt;/span&gt;
+ &lt;a href="#rowan-county" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;h3 id="n4uh---rowan-amateur-radio-society-salisbury" id=n4uh---rowan-amateur-radio-society-salisbury&gt;
+ 
+ &lt;span class="me-2"&gt;N4UH - Rowan Amateur Radio Society (Salisbury)&lt;/span&gt;
+ &lt;a href="#n4uh---rowan-amateur-radio-society-salisbury" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h3&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Band&lt;/th&gt;
+ &lt;th&gt;Frequency&lt;/th&gt;
+ &lt;th&gt;Offset&lt;/th&gt;
+ &lt;th&gt;Tone&lt;/th&gt;
+ &lt;th&gt;Notes&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;2m&lt;/td&gt;
+ &lt;td&gt;145.410 MHz&lt;/td&gt;
+ &lt;td&gt;-0.600&lt;/td&gt;
+ &lt;td&gt;136.5 PL&lt;/td&gt;
+ &lt;td&gt;Primary club repeater&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;70cm&lt;/td&gt;
+ &lt;td&gt;443.250 MHz&lt;/td&gt;
+ &lt;td&gt;+5.000&lt;/td&gt;
+ &lt;td&gt;136.5 PL&lt;/td&gt;
+ &lt;td&gt;Secondary repeater&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="cabarrus-county" id=cabarrus-county&gt;
+ 
+ &lt;span class="me-2"&gt;Cabarrus County&lt;/span&gt;
+ &lt;a href="#cabarrus-county" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;h3 id="w4bfb---mecklenburg-ars-concord-area" id=w4bfb---mecklenburg-ars-concord-area&gt;
+ 
+ &lt;span class="me-2"&gt;W4BFB - Mecklenburg ARS (Concord Area)&lt;/span&gt;
+ &lt;a href="#w4bfb---mecklenburg-ars-concord-area" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h3&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Band&lt;/th&gt;
+ &lt;th&gt;Frequency&lt;/th&gt;
+ &lt;th&gt;Offset&lt;/th&gt;
+ &lt;th&gt;Tone&lt;/th&gt;
+ &lt;th&gt;Notes&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;2m&lt;/td&gt;
+ &lt;td&gt;146.940 MHz&lt;/td&gt;
+ &lt;td&gt;-0.600&lt;/td&gt;
+ &lt;td&gt;100.0 PL&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id="n4csi-concord" id=n4csi-concord&gt;
+ 
+ &lt;span class="me-2"&gt;N4CSI (Concord)&lt;/span&gt;
+ &lt;a href="#n4csi-concord" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h3&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Band&lt;/th&gt;
+ &lt;th&gt;Frequency&lt;/th&gt;
+ &lt;th&gt;Offset&lt;/th&gt;
+ &lt;th&gt;Tone&lt;/th&gt;
+ &lt;th&gt;Notes&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;2m&lt;/td&gt;
+ &lt;td&gt;147.315 MHz&lt;/td&gt;
+ &lt;td&gt;+0.600&lt;/td&gt;
+ &lt;td&gt;131.8 PL&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="davidson-county" id=davidson-county&gt;
+ 
+ &lt;span class="me-2"&gt;Davidson County&lt;/span&gt;
+ &lt;a href="#davidson-county" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;h3 id="w4dp-lexington" id=w4dp-lexington&gt;
+ 
+ &lt;span class="me-2"&gt;W4DP (Lexington)&lt;/span&gt;
+ &lt;a href="#w4dp-lexington" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h3&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Band&lt;/th&gt;
+ &lt;th&gt;Frequency&lt;/th&gt;
+ &lt;th&gt;Offset&lt;/th&gt;
+ &lt;th&gt;Tone&lt;/th&gt;
+ &lt;th&gt;Notes&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;2m&lt;/td&gt;
+ &lt;td&gt;146.685 MHz&lt;/td&gt;
+ &lt;td&gt;-0.600&lt;/td&gt;
+ &lt;td&gt;82.5 PL&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;70cm&lt;/td&gt;
+ &lt;td&gt;444.200 MHz&lt;/td&gt;
+ &lt;td&gt;+5.000&lt;/td&gt;
+ &lt;td&gt;82.5 PL&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id="n4ydu-thomasville" id=n4ydu-thomasville&gt;
+ 
+ &lt;span class="me-2"&gt;N4YDU (Thomasville)&lt;/span&gt;
+ &lt;a href="#n4ydu-thomasville" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h3&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Band&lt;/th&gt;
+ &lt;th&gt;Frequency&lt;/th&gt;
+ &lt;th&gt;Offset&lt;/th&gt;
+ &lt;th&gt;Tone&lt;/th&gt;
+ &lt;th&gt;Notes&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;2m&lt;/td&gt;
+ &lt;td&gt;147.390 MHz&lt;/td&gt;
+ &lt;td&gt;+0.600&lt;/td&gt;
+ &lt;td&gt;100.0 PL&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="iredell-county" id=iredell-county&gt;
+ 
+ &lt;span class="me-2"&gt;Iredell County&lt;/span&gt;
+ &lt;a href="#iredell-county" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;h3 id="n4irs-statesville" id=n4irs-statesville&gt;
+ 
+ &lt;span class="me-2"&gt;N4IRS (Statesville)&lt;/span&gt;
+ &lt;a href="#n4irs-statesville" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h3&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Band&lt;/th&gt;
+ &lt;th&gt;Frequency&lt;/th&gt;
+ &lt;th&gt;Offset&lt;/th&gt;
+ &lt;th&gt;Tone&lt;/th&gt;
+ &lt;th&gt;Notes&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;2m&lt;/td&gt;
+ &lt;td&gt;146.760 MHz&lt;/td&gt;
+ &lt;td&gt;-0.600&lt;/td&gt;
+ &lt;td&gt;100.0 PL&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;70cm&lt;/td&gt;
+ &lt;td&gt;444.725 MHz&lt;/td&gt;
+ &lt;td&gt;+5.000&lt;/td&gt;
+ &lt;td&gt;100.0 PL&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id="w4mvb-mooresville" id=w4mvb-mooresville&gt;
+ 
+ &lt;span class="me-2"&gt;W4MVB (Mooresville)&lt;/span&gt;
+ &lt;a href="#w4mvb-mooresville" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h3&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Band&lt;/th&gt;
+ &lt;th&gt;Frequency&lt;/th&gt;
+ &lt;th&gt;Offset&lt;/th&gt;
+ &lt;th&gt;Tone&lt;/th&gt;
+ &lt;th&gt;Notes&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;2m&lt;/td&gt;
+ &lt;td&gt;145.230 MHz&lt;/td&gt;
+ &lt;td&gt;-0.600&lt;/td&gt;
+ &lt;td&gt;100.0 PL&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="stanly-county" id=stanly-county&gt;
+ 
+ &lt;span class="me-2"&gt;Stanly County&lt;/span&gt;
+ &lt;a href="#stanly-county" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;h3 id="w4ua-albemarle" id=w4ua-albemarle&gt;
+ 
+ &lt;span class="me-2"&gt;W4UA (Albemarle)&lt;/span&gt;
+ &lt;a href="#w4ua-albemarle" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h3&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Band&lt;/th&gt;
+ &lt;th&gt;Frequency&lt;/th&gt;
+ &lt;th&gt;Offset&lt;/th&gt;
+ &lt;th&gt;Tone&lt;/th&gt;
+ &lt;th&gt;Notes&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;2m&lt;/td&gt;
+ &lt;td&gt;147.120 MHz&lt;/td&gt;
+ &lt;td&gt;+0.600&lt;/td&gt;
+ &lt;td&gt;91.5 PL&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="mecklenburg-county" id=mecklenburg-county&gt;
+ 
+ &lt;span class="me-2"&gt;Mecklenburg County&lt;/span&gt;
+ &lt;a href="#mecklenburg-county" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;h3 id="w4bfb---mecklenburg-ars-charlotte" id=w4bfb---mecklenburg-ars-charlotte&gt;
+ 
+ &lt;span class="me-2"&gt;W4BFB - Mecklenburg ARS (Charlotte)&lt;/span&gt;
+ &lt;a href="#w4bfb---mecklenburg-ars-charlotte" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h3&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Band&lt;/th&gt;
+ &lt;th&gt;Frequency&lt;/th&gt;
+ &lt;th&gt;Offset&lt;/th&gt;
+ &lt;th&gt;Tone&lt;/th&gt;
+ &lt;th&gt;Notes&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;2m&lt;/td&gt;
+ &lt;td&gt;146.940 MHz&lt;/td&gt;
+ &lt;td&gt;-0.600&lt;/td&gt;
+ &lt;td&gt;100.0 PL&lt;/td&gt;
+ &lt;td&gt;Large coverage area&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;70cm&lt;/td&gt;
+ &lt;td&gt;444.000 MHz&lt;/td&gt;
+ &lt;td&gt;+5.000&lt;/td&gt;
+ &lt;td&gt;100.0 PL&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id="n4nc-charlotte" id=n4nc-charlotte&gt;
+ 
+ &lt;span class="me-2"&gt;N4NC (Charlotte)&lt;/span&gt;
+ &lt;a href="#n4nc-charlotte" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h3&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Band&lt;/th&gt;
+ &lt;th&gt;Frequency&lt;/th&gt;
+ &lt;th&gt;Offset&lt;/th&gt;
+ &lt;th&gt;Tone&lt;/th&gt;
+ &lt;th&gt;Notes&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;2m&lt;/td&gt;
+ &lt;td&gt;145.350 MHz&lt;/td&gt;
+ &lt;td&gt;-0.600&lt;/td&gt;
+ &lt;td&gt;118.8 PL&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="randolph-county" id=randolph-county&gt;
+ 
+ &lt;span class="me-2"&gt;Randolph County&lt;/span&gt;
+ &lt;a href="#randolph-county" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;h3 id="w4rat-asheboro" id=w4rat-asheboro&gt;
+ 
+ &lt;span class="me-2"&gt;W4RAT (Asheboro)&lt;/span&gt;
+ &lt;a href="#w4rat-asheboro" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h3&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Band&lt;/th&gt;
+ &lt;th&gt;Frequency&lt;/th&gt;
+ &lt;th&gt;Offset&lt;/th&gt;
+ &lt;th&gt;Tone&lt;/th&gt;
+ &lt;th&gt;Notes&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;2m&lt;/td&gt;
+ &lt;td&gt;147.255 MHz&lt;/td&gt;
+ &lt;td&gt;+0.600&lt;/td&gt;
+ &lt;td&gt;88.5 PL&lt;/td&gt;
+ &lt;td&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id="programming-tips" id=programming-tips&gt;
+ 
+ &lt;span class="me-2"&gt;Programming Tips&lt;/span&gt;
+ &lt;a href="#programming-tips" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Most modern radios can store these as memory channels&lt;/li&gt;
+&lt;li&gt;Always verify the tone (PL/CTCSS) is correct before transmitting&lt;/li&gt;
+&lt;li&gt;Standard offsets: 2m uses +/- 0.600 MHz, 70cm uses +/- 5.000 MHz&lt;/li&gt;
+&lt;li&gt;Negative offset (-) means transmit frequency is lower than receive&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="online-resources" id=online-resources&gt;
+ 
+ &lt;span class="me-2"&gt;Online Resources&lt;/span&gt;
+ &lt;a href="#online-resources" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.repeaterbook.com/repeaters/index.php?state_id=37"&gt;RepeaterBook - North Carolina&lt;/a&gt; - Complete NC repeater database&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.arrl.org/repeater-directory"&gt;ARRL Repeater Directory&lt;/a&gt; - Official ARRL listings&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Know of a repeater that should be listed here? &lt;a href="https://www.rowanars.net/pages/contact/"&gt;Contact us&lt;/a&gt; with the details!&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Repeaters</title><link>https://www.rowanars.net/pages/repeaters/</link><pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate><guid>https://www.rowanars.net/pages/repeaters/</guid><description>&lt;h2 id="repeaters" id=repeaters&gt;
+ 
+ &lt;span class="me-2"&gt;Repeaters&lt;/span&gt;
+ &lt;a href="#repeaters" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;p&gt;The Rowan Amateur Radio Society (RARS) operates a repeater system under the call sign N4UH that serves as a vital communication hub for amateur radio operators across Rowan County and surrounding areas. More than just a technical asset, the RARS repeater is a community resource that supports daily radio activity, emergency readiness, and public service communication.&lt;/p&gt;
+&lt;h2 id="n4uh-repeater-frequencies" id=n4uh-repeater-frequencies&gt;
+ 
+ &lt;span class="me-2"&gt;N4UH Repeater Frequencies&lt;/span&gt;
+ &lt;a href="#n4uh-repeater-frequencies" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th&gt;Band&lt;/th&gt;
+ &lt;th&gt;Frequency&lt;/th&gt;
+ &lt;th&gt;Offset&lt;/th&gt;
+ &lt;th&gt;PL Tone&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;2 Meter&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;145.410 MHz&lt;/td&gt;
+ &lt;td&gt;-0.600 MHz&lt;/td&gt;
+ &lt;td&gt;136.5 Hz&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td&gt;&lt;strong&gt;70 Centimeter&lt;/strong&gt;&lt;/td&gt;
+ &lt;td&gt;443.250 MHz&lt;/td&gt;
+ &lt;td&gt;+5.000 MHz&lt;/td&gt;
+ &lt;td&gt;136.5 Hz&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id="extending-communication-across-the-region" id=extending-communication-across-the-region&gt;
+ 
+ &lt;span class="me-2"&gt;Extending Communication Across the Region&lt;/span&gt;
+ &lt;a href="#extending-communication-across-the-region" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;p&gt;A repeater receives a signal on one frequency and retransmits it on another, dramatically increasing the range of handheld and mobile radios. For local hams, the RARS repeater provides:&lt;/p&gt;</description></item></channel></rss>

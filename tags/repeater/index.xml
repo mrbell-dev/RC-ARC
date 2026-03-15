@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Repeater on Rowan Amateur Radio Society</title><link>https://www.rowanars.net/tags/repeater/</link><description>Recent content in Repeater on Rowan Amateur Radio Society</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 04 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.rowanars.net/tags/repeater/index.xml" rel="self" type="application/rss+xml"/><item><title>Live Repeater Feed</title><link>https://www.rowanars.net/pages/live-feed/</link><pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate><guid>https://www.rowanars.net/pages/live-feed/</guid><description>&lt;h2 id="listen-live" id=listen-live&gt;
+ 
+ &lt;span class="me-2"&gt;Listen Live&lt;/span&gt;
+ &lt;a href="#listen-live" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;p&gt;You can listen to the N4UH repeater live through Broadcastify. This feed covers the RARS repeater system in Rowan County, NC.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.broadcastify.com/listen/feed/45210"&gt;Listen on Broadcastify&lt;/a&gt;&lt;/p&gt;
+&lt;!-- TODO: Get Broadcastify embed working --&gt;
+&lt;!-- &lt;iframe src="https://www.broadcastify.com/listen/feed/45210/embed" width="100%" height="200" frameborder="0" scrolling="no" allowfullscreen&gt;&lt;/iframe&gt; --&gt;
+&lt;h2 id="about-the-feed" id=about-the-feed&gt;
+ 
+ &lt;span class="me-2"&gt;About the Feed&lt;/span&gt;
+ &lt;a href="#about-the-feed" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;p&gt;This Broadcastify feed streams audio from the N4UH 2-meter repeater operated by the Rowan Amateur Radio Society:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2m Repeater:&lt;/strong&gt; 145.410 MHz, -0.600 offset, 136.5 PL&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Note: Only the 2m repeater is streamed on Broadcastify. The 70cm repeater (443.250 MHz) is not included in this feed.&lt;/em&gt;&lt;/p&gt;</description></item></channel></rss>

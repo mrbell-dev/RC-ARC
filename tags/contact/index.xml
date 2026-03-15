@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Contact on Rowan Amateur Radio Society</title><link>https://www.rowanars.net/tags/contact/</link><description>Recent content in Contact on Rowan Amateur Radio Society</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 04 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.rowanars.net/tags/contact/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact Us</title><link>https://www.rowanars.net/pages/contact/</link><pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate><guid>https://www.rowanars.net/pages/contact/</guid><description>&lt;h2 id="contact-us" id=contact-us&gt;
+ 
+ &lt;span class="me-2"&gt;Contact Us&lt;/span&gt;
+ &lt;a href="#contact-us" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;p&gt;You can reach the Rowan Amateur Radio Society by:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Phone:&lt;/strong&gt; (704) 433-7371&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Meeting Location:&lt;/strong&gt;
+Rowan County Rescue Squad
+1140 Julian Rd
+Salisbury, NC 28146&lt;/p&gt;
+&lt;p&gt;We meet on the 2nd Monday of each month at 7:00 PM. Visitors are always welcome!&lt;/p&gt;
+&lt;h2 id="on-the-air" id=on-the-air&gt;
+ 
+ &lt;span class="me-2"&gt;On the Air&lt;/span&gt;
+ &lt;a href="#on-the-air" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;p&gt;Listen for us on the N4UH repeaters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2m:&lt;/strong&gt; 145.410 MHz, -0.600 offset, 136.5 PL&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;70cm:&lt;/strong&gt; 443.250 MHz, +5.000 offset, 136.5 PL&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="contact-form" id=contact-form&gt;
+ 
+ &lt;span class="me-2"&gt;Contact Form&lt;/span&gt;
+ &lt;a href="#contact-form" class="anchor text-muted"&gt;&lt;i class="fas fa-hashtag"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+&lt;/h2&gt;&lt;!-- TODO: Switch form to RARS Google account (same account as calendar) --&gt;
+&lt;!-- TODO: Create webhook to watch Google Form submissions and send to Discord bot --&gt;
+&lt;form id="contactForm" action="https://api.sheetmonkey.io/form/tsXjKtuurQAQJFvwaGGvuX" method="post" class="mb-4"&gt;
+ &lt;div class="mb-3"&gt;
+ &lt;label class="form-label"&gt;Name:&lt;/label&gt;
+ &lt;input type="text" name="Name" required class="form-control"&gt;
+ &lt;/div&gt;
+ &lt;div class="mb-3"&gt;
+ &lt;label class="form-label"&gt;Call Sign (if licensed):&lt;/label&gt;
+ &lt;input type="text" name="Call Sign" class="form-control" pattern="[A-Za-z]{1,2}[0-9][A-Za-z]{1,3}" title="Enter a valid amateur radio call sign (e.g., W4ABC, KJ4XYZ)"&gt;
+ &lt;/div&gt;
+ &lt;div class="mb-3"&gt;
+ &lt;label class="form-label"&gt;Email:&lt;/label&gt;
+ &lt;input type="email" id="emailInput" name="Email" required class="form-control" pattern="[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}" title="Please enter a valid email address"&gt;
+ &lt;div id="emailFeedback" class="invalid-feedback"&gt;Please enter a valid email address.&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="mb-3"&gt;
+ &lt;label class="form-label"&gt;Message:&lt;/label&gt;
+ &lt;textarea name="Message" rows="5" required class="form-control"&gt;&lt;/textarea&gt;
+ &lt;/div&gt;
+ &lt;input type="hidden" name="Submitted" value="x-sheetmonkey-current-date-time"&gt;
+ &lt;div class="mb-3"&gt;
+ &lt;button type="submit" class="btn btn-primary"&gt;Send Message&lt;/button&gt;
+ &lt;/div&gt;
+&lt;/form&gt;
+&lt;script&gt;
+document.addEventListener('DOMContentLoaded', function() {
+ const form = document.getElementById('contactForm');
+ const emailInput = document.getElementById('emailInput');
+
+ // Email validation regex
+ const emailRegex = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
+
+ // Real-time email validation
+ emailInput.addEventListener('input', function() {
+ if (this.value === '') {
+ this.classList.remove('is-valid', 'is-invalid');
+ } else if (emailRegex.test(this.value)) {
+ this.classList.remove('is-invalid');
+ this.classList.add('is-valid');
+ } else {
+ this.classList.remove('is-valid');
+ this.classList.add('is-invalid');
+ }
+ });
+
+ // Form submission validation
+ form.addEventListener('submit', function(e) {
+ if (!emailRegex.test(emailInput.value)) {
+ e.preventDefault();
+ emailInput.classList.add('is-invalid');
+ emailInput.focus();
+ }
+ });
+});
+&lt;/script&gt;</description></item></channel></rss>
