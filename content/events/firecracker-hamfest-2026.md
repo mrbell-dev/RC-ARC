@@ -22,6 +22,7 @@ Join us for the annual Firecracker Hamfest! This popular event brings together a
 - **Vendor Setup:** 6:00 AM
 - **Doors Open:** 8:00 AM
 - **VE Testing:** 10:00 AM
+- **Official Close:** 1:00 PM
 
 ## Location
 
