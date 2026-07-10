@@ -45,7 +45,8 @@ The Rowan Amateur Radio Society remembers and honors our members who have become
 | KB4OEN | Paul Dziezyc (see _Harmonics_ 251 & 252) | 2007 |
 | KA4ECM | Millicent Elwell (see _Harmonics_ 240) | c. 2005 |
 | K4IRY | Bill Hill (see _Harmonics_ 230) | 2005 |
-| KA4RTJ/N4NOI | Ed Murphy (Harmonics issue 288 -- 2010-05 -- has a long list of SKs wihthout a clear date) | <= 2010 |
+| _Harmonics_ 288 -- 2010-05 -- has a long list of SKs wihthout a clear date |
+| KA4RTJ/N4NOI | Ed Murphy (). Ed was a charter member of W4EXU as mentioned in 1981-04 _Harmonics_ | <= 2010 |
 | KA4MPN/KC4WH/WB4Y | Tom Wale | <= 2010 |
 | WD4FQL | Charles Watson | <= 2010 |
 | KB4HJB/N4KVF | Walt Bastow | <= 2010 |
