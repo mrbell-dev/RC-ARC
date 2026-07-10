@@ -40,7 +40,7 @@ The Rowan Amateur Radio Society remembers and honors our members who have become
 | K4SNF | RARS "charter member" Bill Overman (see _Harmonics_ 278). According to _Harmonics_ Bill was "instrumental in getting this club started again after the old Piedmont radio club became inoperational." | 2009 |
 | W8ZRI | Jack Barnhart (See _Harmonics_ 284) | 2009 |
 | KG4UQU | Tom Neill (see _Harmonics_ 273) | 2008 |
-| N4UH | Henry Elwell | 2007 |
+| N4UH | Henry Elwell (see _Harmonics_ 173) | 2007 |
 | K4MHS | John Godwin (see _Harmonics_ 290) | c. 2007 |
 | KB4OEN | Paul Dziezyc (see _Harmonics_ 251 & 252) | 2007 |
 | KA4ECM | Millicent Elwell (see _Harmonics_ 240) | c. 2005 |
