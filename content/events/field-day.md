@@ -8,6 +8,7 @@ event_date: "June 27-28, 2026"
 ---
 
 ## RARS 2026 Field Day
+**The 2026 Rowan ARS Field Day was a great *success*. Members are already talking about 2027**
 
 [*Ham it up: Rowan radio society joins nat’l event*](https://www.salisburypost.com/2026/06/30/ham-it-up-rowan-radio-society-joins-natl-event/) Salisbury Post article by Janet Briggs
 
