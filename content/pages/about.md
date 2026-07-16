@@ -37,6 +37,7 @@ RARS maintains two repeaters under the N4UH call sign:
 - **70cm:** 443.250 MHz (+5.000 MHz, 136.5 Hz tone)
 
 ## Contact
+<!-- this is redundant. We have the `contact.md` page. -JR -->
 
 - **Reach Us:** [Contact Form](/pages/contact/)
 - **Phone:** (704) 433-7371
