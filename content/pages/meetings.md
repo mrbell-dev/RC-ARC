@@ -36,5 +36,5 @@ Our meetings typically include:
 Visitors are always welcome! Whether you're a licensed ham or just curious about amateur radio, come on by and say hello.
 
 ## Contact
-
+<!-- this is somewhat redundant -->
 For questions about meetings, [contact us](/pages/contact/) or call (704) 433-7371.
