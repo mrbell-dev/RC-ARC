@@ -3,7 +3,7 @@ title: "Field Day 2025 Recap"
 date: 2025-06-29
 description: "A look back at the RARS 2025 Field Day - a weekend celebrating the power and possibility of ham radio"
 categories: [Activities]
-tags: [field-day, events]
+tags: [field-day, event-cal]
 _build:
  list: false
  render: false

@@ -5,10 +5,10 @@ aliases:
 date: 2026-07-16
 description: "ARRL Field Day - Annual amateur radio emergency preparedness exercise held the fourth full weekend of June"
 categories: [Activities]
-tags: [field-day, events, event-general]
+tags: [field-day, events, event-cal]
 event_date: "June 26-27, 2027"
 ---
--# This page is still under development. As June 2027 approaches, please re-visit for new updates. Thank you!
+`This page is still under development. As June 2027 approaches, please re-visit for new updates. Thank you!`
 ## RARS 2027 Field Day
 **The Rowan ARS Field Day is excited about 2027**
 
