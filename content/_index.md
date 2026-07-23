@@ -40,7 +40,7 @@ Come say hello on the air or in person — visitors are always welcome!
 - [Find an Elmer](/pages/elmer/) — Request a mentor to help you get started
 - [Repeaters](/pages/repeaters/) — Full repeater details and coverage
 - [Meetings](/pages/meetings/) — Schedule and directions
-- [Field Day](/events/field-day-2026/) — Our annual Field Day event <!-- we may need to figure out how to do historical field day pages better since it's an annual event -->
+- [Field Day](/events/field-day/) — Our annual Field Day event <!-- Use the aliases construct in front matter to version the year! -->
 - [Live Feed](/pages/live-feed/) — Listen to our repeater on Broadcastify
 - [About RARS](/pages/about/) — Club history and information
 
