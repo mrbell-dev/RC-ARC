@@ -5,6 +5,9 @@ description: "ARRL Field Day - Annual amateur radio emergency preparedness exerc
 categories: [Activities]
 tags: [field-day, events, event-general]
 event_date: "June 27-28, 2026"
+_build:
+ list: false
+ render: false
 ---
 
 ## RARS 2026 Field Day

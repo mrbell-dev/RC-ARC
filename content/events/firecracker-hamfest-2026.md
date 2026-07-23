@@ -5,6 +5,9 @@ description: "Annual Firecracker Hamfest - Buy, sell, and trade amateur radio eq
 categories: [Activities]
 tags: [hamfest, events, event-cal]
 event_date: "July 10-11, 2026"
+_build:
+ list: false
+ render: false
 ---
 
 ## Firecracker Hamfest 2026
