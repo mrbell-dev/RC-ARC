@@ -40,10 +40,22 @@ Come say hello on the air or in person — visitors are always welcome!
 - [Find an Elmer](/pages/elmer/) — Request a mentor to help you get started
 - [Repeaters](/pages/repeaters/) — Full repeater details and coverage
 - [Meetings](/pages/meetings/) — Schedule and directions
-- [Field Day](/events/field-day/) — Our annual Field Day event <!-- Use the aliases construct in front matter to version the year! -->
+- [Field Day](/events/field-day/) — Our annual Field Day event
+<!-- Use the aliases construct in front matter to version the year!
+Does hugo.io, built on the Chripy theme, rendered and displayed via github, have the ability to use symbolic links to link to various versions of a page. For example, a web page of a yearly event where I would want to change the link to the future or current event?
+See:
+Hugo and GitHub Pages cannot effectively use OS-level symbolic links for content management. Because Hugo works by walking file paths, symlinks often cause duplicate content errors, do not resolve correctly in builds, and are actively flagged or ignored by both Hugo and GitHub Pages.However, to achieve your goal of easily pointing to "current" or "future" yearly events without broken links, you can use built-in Hugo features:1. The alias Front Matter parameter (Recommended)You can assign an alias directly in the front matter of your current event file. This creates a redirect page in your build, making sure old links forward to the new event URL.
+Example inside your markdown file:
+yaml
+---
+title: "Event 2026"
+aliases:
+  - "/events/yearly-event/"
+---
+-->
 - [Live Feed](/pages/live-feed/) — Listen to our repeater on Broadcastify
 - [About RARS](/pages/about/) — Club history and information
 
 #### Last Updated
 
-July 16, 2026 12:00 PM EDT
+July 23, 2026 04:43 PM EDT
