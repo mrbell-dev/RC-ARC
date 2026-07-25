@@ -1,5 +1,5 @@
 ---
-_build:
+build:
  list: false
  render: false
 title: "Field Day 2026"
