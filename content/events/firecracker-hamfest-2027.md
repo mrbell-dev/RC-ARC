@@ -1,6 +1,6 @@
 ---
 title: "Firecracker Hamfest 2027"
-date: 2026-07-27
+date: 2027-07-10
 description: "Annual Firecracker Hamfest - Buy, sell, and trade amateur radio equipment at the Salisbury Civic Center"
 categories: [Activities]
 tags: [hamfest, events, event-cal]
