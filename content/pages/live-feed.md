@@ -8,7 +8,7 @@ tags: [repeater, broadcastify, live]
 
 ## Listen Live
 Work in progress
-<#-- You can listen to the N4UH repeater live through Broadcastify. This feed covers the RARS repeater system in Rowan County, NC.
+<!-- You can listen to the N4UH repeater live through Broadcastify. This feed covers the RARS repeater system in Rowan County, NC.
 
 [Listen on Broadcastify](https://www.broadcastify.com/listen/feed/45210) -->
 
