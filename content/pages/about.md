@@ -24,10 +24,10 @@ RARS meets on the **2nd Monday of each month** at **7:00 PM** at:
 
 ## Officers
 
-- **President:** David Jackman N7WOY
-- **Vice President:** Michael Zinicola WD4PVS
-- **Secretary:** Doug Bowers KR4HIL
-- **Treasurer:** James "Jim" Russell KR4FHI
+- **President:** David Jackman **N7WOY**
+- **Vice President:** Vacant <!-- Michael Zinicola WD4PVS -->
+- **Secretary:** Doug Bowers **KR4HIL**
+- **Treasurer:** James "Jim" Russell **KR4FHI**
 
 ## Repeaters
 
