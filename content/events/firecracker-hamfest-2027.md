@@ -5,6 +5,10 @@ description: "Annual Firecracker Hamfest - Buy, sell, and trade amateur radio eq
 categories: [Activities]
 tags: [hamfest, events, event-cal]
 event_date: "July 9-10, 2027"
+build: # https://gohugo.io/content-management/build-options/
+ list: always # Controls whether and where a page appears in site page collections
+ publishResources: true # Applicable to page bundles, determines whether to publish the associated page resources. Specify one of: true (def.), false*
+ render: always # When to render the page. Specify one of: always (def.), link, or never
 ---
 `This page is still under development. As July 2027 approaches, please re-visit for new updates. Thank you!`
 ## Firecracker Hamfest 2027
