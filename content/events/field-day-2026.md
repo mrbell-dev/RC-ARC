@@ -2,7 +2,6 @@
 title: "Field Day 2026"
 # this date is used by the archives timeline
 date: 2026-06-27
-publishDate: 2026-02-02
 description: "ARRL Field Day - Annual amateur radio emergency preparedness exercise held the fourth full weekend of June"
 categories: [Activities]
 tags: [field-day]
@@ -14,7 +13,9 @@ build: # https://gohugo.io/content-management/build-options/
 ---
 
 ## RARS 2026 Field Day
-**The 2026 Rowan ARS annual ARRL Field Day was a great *success*. Members are already talking about 2027**
+June 27-28, 2026
+
+**The 2026 Rowan ARS annual *ARRL Field Day* event was a great *success*. Members are already talking about 2027**
 
 [*Ham it up: Rowan radio society joins nat’l event*](https://www.salisburypost.com/2026/06/30/ham-it-up-rowan-radio-society-joins-natl-event/) Salisbury Post article by Janet Briggs
 
