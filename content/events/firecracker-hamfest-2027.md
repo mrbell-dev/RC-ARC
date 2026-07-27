@@ -1,12 +1,12 @@
 ---
 title: "Firecracker Hamfest 2027"
-date: 2026-07-22
+date: 2026-07-27
 description: "Annual Firecracker Hamfest - Buy, sell, and trade amateur radio equipment at the Salisbury Civic Center"
 categories: [Activities]
 tags: [hamfest, events, event-cal]
 event_date: "July 9-10, 2027"
 ---
-
+`This page is still under development. As July 2027 approaches, please re-visit for new updates. Thank you!`
 ## Firecracker Hamfest 2027
 
 Join us for the annual Firecracker Hamfest! This popular event brings together amateur radio operators from across the region for a weekend of buying, selling, trading, and socializing.
@@ -25,18 +25,21 @@ Join us for the annual Firecracker Hamfest! This popular event brings together a
 - **Official Close:** 1:00 PM
 -->
 ## Location
+As of 7/2026, we expect to hold the 2027 event at the *Salisbury Civic Center*, at least until further notice.
 <!--
 **Salisbury Civic Center**
 315 S. Martin Luther King Ave
 Salisbury, NC
 -->
 ## Admission & Table Pricing
+Please stay tuned
 <!--
 - **General Admission:** $10
 - **Outside Spaces:** $5 each
 - **Inside Tables:** $10 for the first table, $5 for each additional table
 -->
 ## VE Testing
+Please stay tuned
 <!--
 License exams will be available on Saturday at 10:00 AM. Bring a valid photo ID and any current license documentation.
 -->
@@ -48,6 +51,7 @@ License exams will be available on Saturday at 10:00 AM. Bring a valid photo ID 
 - **Door Prizes** -- Win great prizes throughout the day
 
 ## Volunteers Needed
+Please stay tuned as the date approaches.
 <!--
 We need volunteers to help make the hamfest a success! If you'd like to help out, please sign up using the link below.
 
@@ -55,7 +59,7 @@ We need volunteers to help make the hamfest a success! If you'd like to help out
 -->
 ## Contact
 
-For vendor reservations, table availability, or questions, contact: (TBD)
+For vendor reservations, table availability, or questions, contact: Please stay tuned for updates as the event approaches.
 <!--
 **Ralph Mowery, KU4PT** -- Hamfest Chairman
 - **Reach Us:** [Contact Form](/pages/contact/)
