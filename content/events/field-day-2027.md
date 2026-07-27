@@ -2,7 +2,8 @@
 title: "Field Day 2027"
 aliases:
  - "/events/field-day/"
-date: 2027-07-26 # this date is used by the archives
+# this date is used by the archives
+date: 2027-07-26
 description: "ARRL Field Day - Annual amateur radio emergency preparedness exercise held the fourth full weekend of June"
 categories: [Activities]
 tags: [field-day, events, event-cal]
