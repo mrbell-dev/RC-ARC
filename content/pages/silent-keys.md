@@ -1,6 +1,6 @@
 ---
 title: "Silent Keys"
-date: 2026-02-04
+date: 2026-07-27
 description: "In memory of RARS members who have become Silent Keys"
 categories: [Club Info]
 tags: [silent-keys, memorial]
@@ -51,7 +51,7 @@ The Rowan Amateur Radio Society remembers and honors our members who have become
 | WD4FQL | Charles Watson | <= 2010 |
 | KB4HJB/N4KVF | Walt Bastow | <= 2010 |
 | K4QFV | Susan Bastow | <= 2010 |
-| KB4HVJ/NRKVH `(sic)`/AE4JB | Don Rollins | <= 2010 |
+| <div style="min-width: 20px; white-space: normal;">KB4HVJ/NRKVH `(sic)`/AE4JB</div> | Don Rollins | <= 2010 |
 | KA4EVR | Vesper Collins | <= 2010 |
 | KD4MXG/AD4UW | Frank Drennan | <= 2010 |
 | KA4NZU | Robert Steadman | <= 2010 |
