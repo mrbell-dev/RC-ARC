@@ -8,7 +8,7 @@ categories: [Activities]
 tags: [field-day, events, event-cal]
 event_date: "June 26-27, 2027"
 build: # https://gohugo.io/content-management/build-options/
- list: true # Controls whether and where a page appears in site page collections
+ list: always # Controls whether and where a page appears in site page collections.  Always (def.), local, or never
  publishResources: true # Applicable to page bundles, determines whether to publish the associated page resources. Specify one of: true (def.), false*
  render: always # When to render the page. Specify one of: always (def.), link, or never
 ---
