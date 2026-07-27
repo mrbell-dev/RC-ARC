@@ -3,7 +3,7 @@ title: "Field Day 2026"
 date: 2026-06-22
 description: "ARRL Field Day - Annual amateur radio emergency preparedness exercise held the fourth full weekend of June"
 categories: [Activities]
-tags: [field-day, event-cal]
+tags: [field-day, events]
 event_date: "June 27-28, 2026"
 build: # https://gohugo.io/content-management/build-options/
  list: local # Controls whether and where a page appears in site page collections. Always (def.), local, or never
