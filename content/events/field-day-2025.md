@@ -12,6 +12,7 @@ build: # https://gohugo.io/content-management/build-options/
 
 ## RARS 2025 Field Day
 June 28-29, 2025
+
 Amateur Extra, Mark Kelner, was the Chairman of the 2025 event. A number of guests visited, including members of the [Mid Carolina Radio Group](https://www.facebook.com/share/g/1ELWmtbBeS/).
 
 ### Celebrating the Power and Possibility of Ham Radio
