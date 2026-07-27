@@ -2,6 +2,7 @@
 title: "Archives"
 draft: false
 layout: archives
+date: 1937-01-01
 menu:
   main:
     name: Archives
