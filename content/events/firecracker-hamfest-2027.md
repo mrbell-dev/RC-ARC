@@ -1,6 +1,11 @@
 ---
 title: "Firecracker Hamfest 2027"
+aliases:
+ - "/events/firecracker-hamfest/"
+# The archive timeline seems to read this date.
 date: 2027-07-10
+# This publishDate is important for front-loaded events with a future date or it might not be rendered.
+publishDate: 2026-07-12
 description: "Annual Firecracker Hamfest - Buy, sell, and trade amateur radio equipment at the Salisbury Civic Center"
 categories: [Activities]
 tags: [hamfest, events, event-cal]
