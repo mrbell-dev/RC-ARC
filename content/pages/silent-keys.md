@@ -50,7 +50,7 @@ The Rowan Amateur Radio Society remembers and honors our members who have become
 | <div style="min-width: 20px; white-space: normal;">KA4MPN/KC4WH/WB4Y</div> | Tom Wale | <= 2010 |
 | WD4FQL | Charles Watson | <= 2010 |
 | K4QFV | Susan Bastow | <= 2010 |
-| <div style="min-width: 20px; white-space: normal;">KB4HVJ/NRKVH `(sic)`/AE4JB</div> | [Don Rollins](https://www.silentkeyhq.com/main.php?p=bin/NSKALookup.php&forwardToMsg=Loading%20AE4JB...&call=AE4JB&uid=1391304478729973) | <div style="min-width: 20px; white-space: normal;">b. 1928 d. <= 2010</div> |
+| <div style="min-width: 20px; white-space: normal;">KB4HVJ/N4KVH/AE4JB</div> | [Don Rollins](https://www.silentkeyhq.com/main.php?p=bin/NSKALookup.php&forwardToMsg=Loading%20AE4JB...&call=AE4JB&uid=1391304478729973) | <div style="min-width: 20px; white-space: normal;">b. 1928 d. <= 2010</div> |
 | KA4EVR | [Vesper Collins](https://www.silentkeyhq.com/main.php?p=bin/NSKALookup.php&forwardToMsg=Loading%20KA4EVR...&call=KA4EVR&uid=1281304478735902) | <div style="min-width: 20px; white-space: normal;">b. 1920 d. <= 2010</div> |
 | KA4NZU | [Robert Steadman](https://www.silentkeyhq.com/main.php?p=bin/NSKALookup.php&forwardToMsg=Loading%20KA4NZU...&call=KA4NZU&uid=1411304478735988) | <div style="min-width: 20px; white-space: normal;">b. 1922 - d. <= 2010</div> |
 | K4ZMG | [Don Beaver](https://www.silentkeyhq.com/main.php?p=bin/NSKALookup.php&forwardToMsg=Loading%20K4ZMG...&call=K4ZMG&uid=1311304478732917) (see _Harmonics_ 231) | <div style="min-width: 20px; white-space: normal;">b. 1925 - d. 2005</div> |
