@@ -37,7 +37,7 @@ The Rowan Amateur Radio Society remembers and honors our members who have become
 | WB4RGS | Dan Kirk (Harmonics 342) | 2014 |
 | KA4MPP | James "Jim" Ivey Morris Jr. (see _Harmonics_ 316) | 2012 |
 | K4CCY | John P. Davis, Sr. (see _Harmonics_ 290) | 2010 |
-| K4SNF | <div style="min-width: 50px; white-space: normal;">Your very long RARS "charter member" Bill Overman (see _Harmonics_ 278). According to _Harmonics_ Bill was "instrumental in getting this club started again after the old Piedmont radio club became inoperational."</div> | 2009 |
+| K4SNF | <div style="min-width: 50px; white-space: normal;">RARS "charter member" Bill Overman (see _Harmonics_ 278). According to _Harmonics_ Bill was "instrumental in getting this club started again after the old Piedmont radio club became inoperational."</div> | 2009 |
 | W8ZRI | Jack Barnhart (See _Harmonics_ 284) | 2009 |
 | KG4UQU | Tom Neill (see _Harmonics_ 273) | 2008 |
 | N4UH | Henry Elwell (see _Harmonics_ 173) | 2007 |
@@ -46,7 +46,7 @@ The Rowan Amateur Radio Society remembers and honors our members who have become
 | KA4ECM | Millicent Elwell (see _Harmonics_ 240) | c. 2005 |
 | K4IRY | Bill Hill (see _Harmonics_ 230) | 2005 |
 | | <div style="min-width: 80px; white-space: normal;">_Harmonics_ 288 -- 2010-05 -- has a long list of SKs wihthout a clear date</div> |
-| KA4RTJ/N4NOI | <div style="min-width: 100px; white-space: normal;">Your very long Ed Murphy (). Ed was a charter member of W4EXU as mentioned in 1981-04 _Harmonics_</div> | <= 2010 |
+| KA4RTJ/N4NOI | <div style="min-width: 100px; white-space: normal;">Ed Murphy (). Ed was a charter member of W4EXU as mentioned in 1981-04 _Harmonics_</div> | <= 2010 |
 | KA4MPN/KC4WH/WB4Y | Tom Wale | <= 2010 |
 | WD4FQL | Charles Watson | <= 2010 |
 | K4QFV | Susan Bastow | <= 2010 |
