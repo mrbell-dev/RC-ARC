@@ -32,7 +32,8 @@ The Rowan Amateur Radio Society remembers and honors our members who have become
 | W4FQV | Nelson Large (see _Harmonics_ 368) | 2017 |
 | K4REQ | Bob Rector (see _Harmonics_ 367) | 2017 |
 | AB3X | Drax Felton (see _Harmonics_ 364) | 2016 |
-| KG4WAD | Bob yarbrough (see _Harmonics_ 342) | 2014 |
+| K4AGO | [Holland "Bud" Bost](https://www.silentkeyhq.com/main.php?p=bin/NSKALookup.php&call=K4AGO&uid=0401785361387285) (see _Harmonics_ 343) | <div style="min-width: 20px; white-space: normal;">b. 1929 - d. 2015-01</div> |
+| KG4WAD | Bob Yarbrough (see _Harmonics_ 342) | 2014 |
 | N4MME | David Bradley (mentioned in _Harmonics_ 342) | 2014 |
 | WB4RGS | Dan Kirk (Harmonics 342) | 2014 |
 | KA4MPP | James "Jim" Ivey Morris Jr. (see _Harmonics_ 316) | 2012 |
@@ -71,7 +72,7 @@ The Rowan Amateur Radio Society remembers and honors our members who have become
 | WA4ADB | Sam Mayfield (see _Harmonics_ 93, 94) | 1993 |
 | W4BNU | [Barney Dodd](https://www.silentkeyhq.com/main.php?p=bin/NSKALookup.php&forwardToMsg=Loading%20W4BNU...&call=W4BNU&uid=1111304478751782) (see _Harmonics_ 88) | <div style="min-width: 20px; white-space: normal;">b. 1909 - d. 1992</div> |
 | WA4IBK | [Clyde Merritt](https://www.silentkeyhq.com/main.php?p=bin/NSKALookup.php&forwardToMsg=Loading%20WA4IBK...&call=WA4IBK&uid=0301329158783211) (see _Harmonics_ 87) | <div style="min-width: 20px; white-space: normal;">b. 1929 - d. 1992</div> |
-| KA4GMS | [Rolland Gibbs](https://www.silentkeyhq.com/main.php?p=bin/NSKALookup.php&forwardToMsg=Loading%20KA4GMS...&call=KA4GMS&uid=1311304478735920) (see _Harmonics_ 86) | b. 1908 - d. 1991 |
+| KA4GMS | [Rolland Gibbs](https://www.silentkeyhq.com/main.php?p=bin/NSKALookup.php&forwardToMsg=Loading%20KA4GMS...&call=KA4GMS&uid=1311304478735920) (see _Harmonics_ 86) | <div style="min-width: 20px; white-space: normal;">b. 1908 - d. 1991</div> |
 | W4LSB | Holly Long (XYL of Herman Long) | 1988 |
 | KB4HJR | Dick Cleveland (See _Harmonics_ 53, 56) | 1987 |
 | W4ZBY | Charles Welch (mentioned in _Harmonics_ 35, 39, 48, 56) | c. 1984 |
