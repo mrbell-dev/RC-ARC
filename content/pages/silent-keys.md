@@ -49,14 +49,12 @@ The Rowan Amateur Radio Society remembers and honors our members who have become
 | KA4RTJ/N4NOI | <div style="min-width: 100px; white-space: normal;">Your very long Ed Murphy (). Ed was a charter member of W4EXU as mentioned in 1981-04 _Harmonics_</div> | <= 2010 |
 | KA4MPN/KC4WH/WB4Y | Tom Wale | <= 2010 |
 | WD4FQL | Charles Watson | <= 2010 |
-| KB4HJB/N4KVF | Walt Bastow | <= 2010 |
 | K4QFV | Susan Bastow | <= 2010 |
 | <div style="min-width: 20px; white-space: normal;">KB4HVJ/NRKVH `(sic)`/AE4JB</div> | Don Rollins | <= 2010 |
 | KA4EVR | Vesper Collins | <= 2010 |
-| KD4MXG/AD4UW | Frank Drennan | <= 2010 |
 | KA4NZU | Robert Steadman | <= 2010 |
 | K4ZMG | Don Beaver (see _Harmonics_ 231) | 2005 |
-| N4KVH | <div style="min-width: 80px; white-space: normal;">Walt Bastow (not a member), started the [Firecracker Hamfest](/events/firecracker-hamfest/) (see _Harmonics_ 226)</div> | 2004 |
+| KB4HJB/N4KVF/N4KVH | <div style="min-width: 80px; white-space: normal;">Walt Bastow (not a member), started the [Firecracker Hamfest](/events/firecracker-hamfest/) (see _Harmonics_ 226)</div> | 2004 |
 | K4CRP | [John] Curtis Crane (see _Harmonics_ issue 223) | 2004 |
 | WB4FOK | Don Freiss (see _Harmonics_ 203) | 2002 |
 | K4BEC | Grady Withers | 2002 |
