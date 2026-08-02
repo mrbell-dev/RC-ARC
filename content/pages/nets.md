@@ -64,6 +64,7 @@ A guide to amateur radio nets in and around Rowan County, NC. VHF/UHF nets liste
 | Lincoln Co RACES/ARES | 147.015 MHz +0.600 / 442.350 MHz +5.000 | Lincoln | Tuesday | |
 | Rockingham County ARES Net | 147.030 MHz +0.600 | Rockingham | Tuesday | 9:00 PM |
 | Cleveland County ARS 2m Simplex Training Net | 147.505 MHz simplex | Cleveland | Monday | 9:00 PM |
+| Local Simplex Net around upstate NC (Vickie and Andy KC8BSZ) | 146.520 MHz | upstate SC | Wednsday | 7:30 PM ET |
 
 ---
 
