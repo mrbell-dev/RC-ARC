@@ -89,16 +89,19 @@ These nets have a broader reach and can often be accessed from Rowan County on H
 | North Carolina Alligator Group | 7.240 MHz | Saturday | 10:00 AM |
 | North Carolina Alligator Group | 3.690 MHz | Tuesday | 8:00 PM |
 | Smith Chart ARS 10M SSB Net | 28.430 MHz | Wednesday | 8:30 PM |
-| Orange County Radio Amateurs 10M Net | 28.450 MHz | 1st/3rd/4th/5th Monday | 8:00 PM |
+| [Orange County Radio Amateurs 10M Net](https://ncocra.org/WordPress_v1/ocra-club-meetings-and-nets/) | 28.450 MHz | 1st/3rd/4th/5th Monday | 8:00 PM |
 | Onslow ARC Net | 28.440 MHz | Sunday | |
 | Onslow County 10M Net | 28.450 MHz | Sunday | |
+| [Tar Heel Emergency Net](https://www.ncarrl.org/nets/THEN/) | 3923 kHz, 7232 kHz* | Nightly | 7:30 PM ET |
 | Wayne County ARA 10M Net | 28.450 MHz | Monday | 8:30 PM |
-| Raleigh ARS HF Net | 28.364 MHz | Wednesday | 8:30 PM |
+| [Raleigh ARS HF Net](https://www.rars.org/nets.php) | 28.364 MHz | Wednesday | 8:30 PM |
 | Pamlico Swamp Roundtable | 28.463 MHz | Monday | 8:15 PM |
 | QCWA Chapter 76 | 3.930 MHz | Saturday | 10:00 AM |
-| ICARS 75 Meter SSB Net | 3.975 MHz | Daily | |
+<!--| ICARS 75 Meter SSB Net | 3.975 MHz | Daily | |--> 
+<!--8/3/26: "The Iredell County Amateur Radio Society (ICARS) does not currently host or sponsor a scheduled regular net on the 75-meter single sideband (SSB) HF band. Local club operations focus primarily on VHF/UHF repeaters and local activities rather than an HF 75m SSB net." -->
 
 ---
+<small>*Alternate Frequency</small>
 
 ## Tips for Checking Into a Net
 
