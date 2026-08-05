@@ -48,12 +48,12 @@ The Rowan Amateur Radio Society remembers and honors our members who have become
 | KA4ECM | Millicent Elwell (see _Harmonics_ 240) | c. 2005 |
 | K4IRY | Bill Hill (see _Harmonics_ 230) | 2005 |
 | | <div style="min-width: 80px; white-space: normal;">_Harmonics_ 288 -- 2010-05 -- has a long list of SKs without a clear date</div> |
-| <div style="min-width: 20px; white-space: normal;">KA4MPN/KC4WH/WB4Y</div> | Tom Wale | <= 2010 |
 | WD4FQL | Charles Watson | <= 2010 |
 | K4QFV | Susan Bastow | <= 2010 |
 | <div style="min-width: 20px; white-space: normal;">KB4HVJ/N4KVH/AE4JB</div> | [Don Rollins](https://www.silentkeyhq.com/main.php?p=bin/NSKALookup.php&forwardToMsg=Loading%20AE4JB...&call=AE4JB&uid=1391304478729973) | <div style="min-width: 20px; white-space: normal;">b. 1928 d. <= 2010</div> |
 | KA4EVR | [Vesper Collins](https://www.silentkeyhq.com/main.php?p=bin/NSKALookup.php&forwardToMsg=Loading%20KA4EVR...&call=KA4EVR&uid=1281304478735902) | <div style="min-width: 20px; white-space: normal;">b. 1920 d. <= 2010</div> |
 | KA4NZU | [Robert Steadman](https://www.silentkeyhq.com/main.php?p=bin/NSKALookup.php&forwardToMsg=Loading%20KA4NZU...&call=KA4NZU&uid=1411304478735988) | <div style="min-width: 20px; white-space: normal;">b. 1922 - d. <= 2010</div> |
+| <div style="min-width: 20px; white-space: normal;">KA4MPN/KC4WH/WB4Y</div> | [Tom Wale](https://www.legacy.com/us/obituaries/salisburypost/name/thomas-wale-obituary?id=28330969) | b. 1934 - d. 2006 |
 | K4ZMG | [Don Beaver](https://www.silentkeyhq.com/main.php?p=bin/NSKALookup.php&forwardToMsg=Loading%20K4ZMG...&call=K4ZMG&uid=1311304478732917) (see _Harmonics_ 231) | <div style="min-width: 20px; white-space: normal;">b. 1925 - d. 2005</div> |
 | KB4HJB/N4KVF/N4KVH | <div style="min-width: 80px; white-space: normal;">Walt Bastow (not a member), started the [Firecracker Hamfest](/events/firecracker-hamfest/) (see _Harmonics_ 226)</div> | 2004 |
 | K4CRP | [John] Curtis Crane (see _Harmonics_ issue 223) | 2004 |
