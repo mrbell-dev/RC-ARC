@@ -1,0 +1,9 @@
+<!-- You can later improve this with CSS (grid/masonry) or add a lightbox library (PhotoSwipe, GLightbox, lightGallery, etc.). Many people start with just the simple version above and add a lightbox later. -->
+<div class="photo-gallery">
+  {{ range .Page.Resources.ByType "image" }}
+    {{ $thumb := .Resize "400x" }}   {{/* or .Fill "400x300" for cropped thumbs */}}
+    <a href="{{ .RelPermalink }}" class="gallery-item">
+      <img src="{{ $thumb.RelPermalink }}" alt="{{ .Name }}" loading="lazy">
+    </a>
+  {{ end }}
+</div>
