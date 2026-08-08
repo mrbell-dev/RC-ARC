@@ -5,7 +5,12 @@ draft: false          # ← keeps it completely off the live site
 tags: ["photos", "event"]
 ---
 
-On Saturday morning, August 8, 2026, Mark, William, Logan, Michael, Vik, Jim, Rick, Bob, Bryan, (Dick H. visited), and Darrell (Johnny couldn't be with us) all enjoyed a great POTA activation at the sceneic overlook of *Morrow Mountain State Park*. The views from Morrow Mountain were splendid! We're already looking for the next POTA event. After we had a great lunch at *Five Points Public House* in Albamarle where waitress Becky and her colleagues served us some delicious food.
+On Saturday morning, August 8, 2026, Mark, William, Logan, Michael, Vik, Jim, Rick, Bob, Bryan, (Dick H. visited), and Darrell (Johnny couldn't be with us) all enjoyed a great POTA activation at the sceneic overlook of [*Morrow Mountain State Park*](https://www.ncparks.gov/state-parks/morrow-mountain-state-park). The views from Morrow Mountain were splendid!
+
+After we had a great lunch at *Five Points Public House* in Albamarle where waitress Becky and her colleagues served us some delicious food.
+
+We're already looking for the next POTA event.
+
 
 # Stations
 * a UHF/VHF station brought by Logan
