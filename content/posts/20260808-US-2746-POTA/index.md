@@ -11,7 +11,6 @@ After we had a great lunch at *Five Points Public House* in Albamarle where wait
 
 We're already looking for the next POTA event.
 
-
 # Stations
 * a UHF/VHF station brought by Logan
 * an HF station brought by William
