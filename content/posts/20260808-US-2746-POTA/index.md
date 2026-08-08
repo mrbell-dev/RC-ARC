@@ -9,7 +9,7 @@ On Saturday morning, August 8, 2026, Mark, William, Logan, Michael, Vik, Jim, Ri
 
 After we had a great lunch at *Five Points Public House* in Albamarle where waitress Becky and her colleagues served us some delicious food.
 
-We're already looking for the next POTA event.
+We're already eagerly looking forward to the next POTA activation.
 
 # Stations
 * a UHF/VHF station brought by Logan
