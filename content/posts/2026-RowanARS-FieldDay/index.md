@@ -4,7 +4,7 @@ date: 2026-06-27
 event_date: "June 27-28, 2026"
 draft: false          # ← keeps it completely off the live site
 categories: [Activities]
-tags: ["photos", "event", "digital", "field-day", "community", "newham"]
+tags: ["photos", "event", "digital", "field-day", "community", "newham", "ft8"]
 ---
 
 Between Friday 6/26 and wrapping up on Sunday 6/28/26, under Mark K's leadership, we had a fantastic field day. We made contacts, we grew friendships, and grew stronger in unity as a club. Needless to say, we're looking forward to the [2027 Field Day event](/events/field-day-2027/)!
