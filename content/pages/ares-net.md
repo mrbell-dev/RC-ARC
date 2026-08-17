@@ -10,7 +10,7 @@ tags: [ares, emergency, net]
 
 ### Communications and Disaster Preparedness
 
-When emergencies strike Rowan County, reliable communication becomes essential. The Rowan Amateur Radio Society (RARS) ARES team plays a critical role in ensuring that emergency managers, public safety agencies, and community partners have dependable backup communication when traditional systems fail or become overloaded.
+When emergencies strike Rowan County, reliable communication becomes essential. The [Rowan Co. ARES](https://rowancares.org) team plays a critical role in ensuring that emergency managers, public safety agencies, and community partners have dependable backup communication when traditional systems fail or become overloaded.
 
 > "We hope we're never needed -- but we train like we will be."
 
