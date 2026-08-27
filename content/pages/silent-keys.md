@@ -32,6 +32,7 @@ The Rowan Amateur Radio Society remembers and honors our members who have become
 | W4FQV | Nelson Large (see _Harmonics_ 368) | 2017 |
 | K4REQ | Bob Rector (see _Harmonics_ 367) | 2017 |
 | AB3X | Drax Felton (see _Harmonics_ 364) | 2016 |
+| K4SHU | Clarence B. Beaver Jr. | <div style="min-width: 20px; white-space: normal;">1929-12-01 to 2015-08-14</div> |
 | K4AGO | [Holland "Bud" Bost](https://www.silentkeyhq.com/main.php?p=bin/NSKALookup.php&call=K4AGO&uid=0401785361387285) (see _Harmonics_ 343) | <div style="min-width: 20px; white-space: normal;">b. 1929 - d. 2015-01</div> |
 | KG4WAD | Bob Yarbrough (see _Harmonics_ 342) | 2014 |
 | N4MME | David Bradley (mentioned in _Harmonics_ 342) | 2014 |
