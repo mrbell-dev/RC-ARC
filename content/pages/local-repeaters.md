@@ -16,11 +16,43 @@ A quick reference guide to amateur radio repeaters in and around Rowan County, N
 
 ## Rowan County
 
-### N4UH - Rowan Amateur Radio Society (Salisbury)
+### N4UH - [Rowan Amateur Radio Society](/) (China Grove, NC)
 | Band | Frequency | Offset | Tone | Notes |
 |------|-----------|--------|------|-------|
-| 2m | 145.410 MHz | -0.600 | 136.5 PL | Primary club repeater |
-| 70cm | 443.250 MHz | +5.000 | 136.5 PL | Secondary repeater |
+| 2m | 145.410 MHz | -0.600 | 136.5 PL | club repeater, ARES primary |
+| 70cm | 443.250 MHz | +5.000 | 136.5 TSQL | club repeater |
+
+### [KU4PT](https://www.repeaterbook.com/repeaters/details.php?state_id=37&ID=190) - Ralph Mowery and Trustees (Cleveland, NC)
+| Band | Frequency | Offset | Tone | Notes |
+|------|-----------|--------|------|-------|
+| 2m | 146.73 | -0.600 | 94.8 PL | One of the oldest FM repeaters in the region. Located on Young's Mountain. |
+
+### BRANet Bi-State-Radio-Amateur-Network
+#### Cleveland, NC; Granite Quarry, NC; etc.
+| Band | Frequency | Offset | Tone | Notes |
+|------|-----------|--------|------|-------|
+| 70 cm | 443.5 | +5.0 | 151.4 TSQL | [KR4BHY](https://www.repeaterbook.com/repeaters/details.php?state_id=37&ID=24677). Located on Young's Mountain. |
+| 70 cm | 444.4 | +5.0 | 151.4 TSQL | [KD4OWV](https://www.repeaterbook.com/repeaters/details.php?state_id=37&ID=24676). Located at Al's Knob in Granite Quarry. |
+
+This a newer radio linked repeater network. The repeaters are still under development. There may be other complimentary repeaters near Gastonia, NC and Lancaster, SC which are not yet published due to coordination and other issues; these are believed to be in the 2m band -- possibly 145.45 -0.600 Mhz and 145.21 -0.600 MHz offset, respectively. The network uses the same tones uniformly.
+
+The network may eventually grow to a 5th repeater. Advertised to have robust power.
+
+### [KB2AZG](https://www.repeaterbook.com/repeaters/details.php?state_id=37&ID=20422) (Salisbury, NC)
+| Band | Frequency | Offset | Tone | Notes |
+|------|-----------|--------|------|-------|
+| 2m | 145.21 | -0.600 | 100 TSQL | Andy Kaufman's Repeater |
+
+### [K4CH](https://www.repeaterbook.com/repeaters/details.php?state_id=37&ID=12785) DMR Repeater
+| Band | Frequency | Offset | Tone | Notes |
+|------|-----------|--------|------|-------|
+| 70 cm | 443.7 | +5.0 | DMR | BrandMeister Network...FULL-TIME LINK to W4SNA, ... |
+
+### [W4SNA 6m](https://www.repeaterbook.com/repeaters/details.php?state_id=37&ID=6751) on Young's Mountain, Cleveland, NC
+| Band | Frequency | Offset | Tone | Notes |
+|------|-----------|--------|------|-------|
+| 6m | 53.31 | -1.0 | 100 TSQL | Links Full-time to 53.95000 (W4SNA) at King, Sauratown Mtn, NC |
+
 
 ---
 
@@ -53,6 +85,15 @@ A quick reference guide to amateur radio repeaters in and around Rowan County, N
 
 ---
 
+## Davie County
+
+### [W4NSW](https://www.repeaterbook.com/repeaters/details.php?state_id=37&ID=22454)  (Mocksville)
+| Band | Frequency | Offset | Tone | Notes |
+|------|-----------|--------|------|-------|
+| 70 cm| 443.175 | +5.0 | 85.4 TSQL | Newer repeater (2026) |
+
+---
+
 ## Iredell County
 
 ### N4IRS (Statesville)
@@ -70,10 +111,10 @@ A quick reference guide to amateur radio repeaters in and around Rowan County, N
 
 ## Stanly County
 
-### W4UA (Albemarle)
+### K4OGB (Albemarle)
 | Band | Frequency | Offset | Tone | Notes |
 |------|-----------|--------|------|-------|
-| 2m | 147.120 MHz | +0.600 | 91.5 PL | |
+| 2m | 146.985 MHz | -0.600 | 77.0 TSQL | [RepeaterBook entry](https://www.repeaterbook.com/repeaters/details.php?state_id=37&ID=42) |
 
 ---
 
@@ -92,6 +133,16 @@ A quick reference guide to amateur radio repeaters in and around Rowan County, N
 
 ---
 
+## Guilford County
+### W4UA - High Point Amateur Radio Club (HPARC) 
+#### High Point • Atrium Health Hospital
+| Band | Frequency | Offset | Tone | Notes |
+|------|-----------|--------|------|-------|
+| 2m | 147.165 MHz | +0.600 | 67 TSQL | FM, YSF, WIRES-X [RepeaterBook](https://www.repeaterbook.com/repeaters/details.php?state_id=37&ID=122) |
+
+
+---
+
 ## Randolph County
 
 ### W4RAT (Asheboro)
@@ -105,6 +156,7 @@ A quick reference guide to amateur radio repeaters in and around Rowan County, N
 
 - Most modern radios can store these as memory channels
 - Always verify the tone (PL/CTCSS) is correct before transmitting
+  - "TSQL" means it has tones both for uplink and downlink
 - Standard offsets: 2m uses +/- 0.600 MHz, 70cm uses +/- 5.000 MHz
 - Negative offset (-) means transmit frequency is lower than receive
 
