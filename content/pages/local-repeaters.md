@@ -36,8 +36,8 @@ According to trustee, K4DFI, this 2m repeater began operations on 1970-11-22. It
 
 This repeater's fequency was at 146.28/88 until 1974-02 and then 146.13/73.
 
-![This is a sign from the the 1970s](/img/repeaters/Barber_Junction_Repeater_Association_WR4AAA.JPG  "WR4AAA, Barber Junction Repeatera Association")  
-(Photo courtesy of Mr. J. C. Ludwig)
+Historic Sign est. from late 1970's, (Photo courtesy of Mr. J. C. Ludwigm K4DFI)  
+![This is a sign from the the 1970s](/img/repeaters/Barber_Junction_Repeater_Association_WR4AAA.JPG  "WR4AAA, Barber Junction Repeater Association")  
 
 ### BRANet Bi-State-Radio-Amateur-Network
 #### Cleveland, NC; Granite Quarry, NC; etc.
@@ -65,6 +65,7 @@ The network may eventually grow to a 5th repeater. Advertised to have robust pow
 |------|-----------|--------|------|-------|
 | 6m | 53.31 | -1.0 | 100 TSQL | Links Full-time to 53.95000 (W4SNA) at King, Sauratown Mtn, NC |
 
+(Young's Mountain may be marked as being in Cleveland, Barber Junction, or Salisbury. It's most closely located in the Barber Junction community. It is the highest land point in Rowan County.)
 
 ---
 
@@ -175,7 +176,7 @@ The network may eventually grow to a 5th repeater. Advertised to have robust pow
 
 - Most modern radios can store these as memory channels
 - Always verify the tone (PL/CTCSS) is correct before transmitting
-  - "TSQL" means it has tones both for uplink and downlink
+  - "TSQL" means it has tones both for uplink and downlink. Having the tone on your receiving frequency allows your radio to squelch competing repeaters.
 - Standard offsets: 2m uses +/- 0.600 MHz, 70cm uses +/- 5.000 MHz
 - Negative offset (-) means transmit frequency is lower than receive
 
