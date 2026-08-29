@@ -25,7 +25,7 @@ A quick reference guide to amateur radio repeaters in and around Rowan County, N
 ### [KU4PT](https://www.repeaterbook.com/repeaters/details.php?state_id=37&ID=190) - Ralph Mowery and Trustees (Cleveland, NC)
 | Band | Frequency | Offset | Tone | Notes |
 |------|-----------|--------|------|-------|
-| 1.25m | 224.76 | -1.6 | | since late 1978 |
+| 1.25m | 224.76 | -1.6 | | since late 1978. This repeater is relatively unknown! |
 | 2m | 146.73 | -0.600 | 94.8 PL | One of the oldest FM repeaters in the region. Located on Young's Mountain. |
 
 According to trustee, K4DFI, this 2m repeater began operations on 1970-11-22. It has operated under multiple call signs originally stewarded by the *Barber Junction Repeater Association*:
@@ -34,7 +34,10 @@ According to trustee, K4DFI, this 2m repeater began operations on 1970-11-22. It
 3. WR4AAA (1973-03-13 to 1979-10-25)
 4. KU4PT (since 1979)
 
-This repeater's fequency was aat 146.28/88 until 1974-02 and then 146.13/73.
+This repeater's fequency was at 146.28/88 until 1974-02 and then 146.13/73.
+
+![This is a sign from the the 1970s](/img/repeaters/Barber_Junction_Repeater_Association_WR4AAA.JPG  "WR4AAA, Barber Junction Repeatera Association")  
+(Photo courtesy of Mr. J. C. Ludwig)
 
 ### BRANet Bi-State-Radio-Amateur-Network
 #### Cleveland, NC; Granite Quarry, NC; etc.
@@ -115,6 +118,13 @@ The network may eventually grow to a 5th repeater. Advertised to have robust pow
 | Band | Frequency | Offset | Tone | Notes |
 |------|-----------|--------|------|-------|
 | 2m | 145.230 MHz | -0.600 | 100.0 PL | |
+
+### [WG8E](https://www.repeaterbook.com/repeaters/details.php?state_id=37&ID=425) (Mooresville)
+#### HEARS Network
+| Band | Frequency | Offset | Tone | Notes |
+|------|-----------|--------|------|-------|
+| 70cm | 443.825 MHz | +5.0 | 110.9 TSQL | Linkable to the [HEARS System](https://www.repeaterbook.com/repeaters/feature_search.php?system=HEARS+System&type=systems) |
+
 
 ---
 
