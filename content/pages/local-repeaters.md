@@ -25,7 +25,16 @@ A quick reference guide to amateur radio repeaters in and around Rowan County, N
 ### [KU4PT](https://www.repeaterbook.com/repeaters/details.php?state_id=37&ID=190) - Ralph Mowery and Trustees (Cleveland, NC)
 | Band | Frequency | Offset | Tone | Notes |
 |------|-----------|--------|------|-------|
+| 1.25m | 224.76 | -1.6 | | since late 1978 |
 | 2m | 146.73 | -0.600 | 94.8 PL | One of the oldest FM repeaters in the region. Located on Young's Mountain. |
+
+According to trustee, K4DFI, this 2m repeater began operations on 1970-11-22. It has operated under multiple call signs originally stewarded by the *Barber Junction Repeater Association*:
+1. K4GHR (1970-11 to 1971-02)
+2. W4EXU (1971-02 to 1973-03 though it was never operated by the Rowan ARS)
+3. WR4AAA (1973-03-13 to 1979-10-25)
+4. KU4PT (since 1979)
+
+This repeater's fequency was aat 146.28/88 until 1974-02 and then 146.13/73.
 
 ### BRANet Bi-State-Radio-Amateur-Network
 #### Cleveland, NC; Granite Quarry, NC; etc.
