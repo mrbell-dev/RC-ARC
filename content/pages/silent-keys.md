@@ -77,7 +77,7 @@ The Rowan Amateur Radio Society remembers and honors our members who have become
 | W4LSB | Holly Long (XYL of Herman Long) | 1988 |
 | KB4HJR | Dick Cleveland (See _Harmonics_ 53, 56) | 1987 |
 | W4ZBY | Charles Welch (mentioned in _Harmonics_ 35, 39, 48, 56) | c. 1984 |
-| W4SWR | <div style="min-width: 80px; white-space: normal;">John Lesley - *K4DFI 2026-08-27*</div> | TBD |
+| W4SWC | <div style="min-width: 80px; white-space: normal;">John Lesley - *K4DFI 2026-08-30*</div> | TBD |
 | W4EXX | <div style="min-width: 80px; white-space: normal;">Jesse Clamp. "Older local hams spoke of Jesse in reverent terms as the first ham to successfully build and get a 10-Meter transmitter to work. Not sure, but I always presumed that it was pre-WWIIin the late 30's. He and Herman Long worked for Duke Power. Many of the W4E__ calls belonged to Duke employees and were probably issued at the same time from the same test session." - *K4DFI 2026-08-27*</div> | TBD |
 | W4HKC | <div style="min-width: 80px; white-space: normal;">Charles (Steve) Stephens. "In 1955, Jimmy Taylor gave me the novice test in Mrs. Stevens attic." - *K4DFI 2026-08-27*</div> | TBD |
 | W4EIU | <div style="min-width: 80px; white-space: normal;">Jimmy Taylor. "Jimmy was a trustee of W4EXU pre-WWII through the club disbandment until letting RARS until letting RARS have it in 1968. He continued to renew it and seemed delighted to have amateurs active again with the historic club call assigned to the group. He even pulled several antennas out of storage and passed them along." - *K4DFI 2026-08-27*</div> | TBD |
